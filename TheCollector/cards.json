@@ -1,0 +1,1738 @@
+[
+    {
+        "cardType": "Oshi Holomem",
+        "image": "hBP02-001_OSR",
+        "number": "hBP02-001",
+        "name": "白上フブキ",
+        "setName": "Quintet Spectrum",
+        "color": "type_white"
+    },
+    {
+        "cardType": "Oshi Holomem",
+        "image": "hBP02-002_OSR",
+        "number": "hBP02-002",
+        "name": "パヴォリア レイネ",
+        "setName": "Quintet Spectrum",
+        "color": "type_green"
+    },
+    {
+        "cardType": "Oshi Holomem",
+        "image": "hBP02-003_OSR",
+        "number": "hBP02-003",
+        "name": "宝鐘マリン",
+        "setName": "Quintet Spectrum",
+        "color": "type_red"
+    },
+    {
+        "cardType": "Oshi Holomem",
+        "image": "hBP02-004_OSR",
+        "number": "hBP02-004",
+        "name": "沙花叉クロヱ",
+        "setName": "Quintet Spectrum",
+        "color": "type_blue"
+    },
+    {
+        "cardType": "Oshi Holomem",
+        "image": "hBP02-005_OSR",
+        "number": "hBP02-005",
+        "name": "紫咲シオン",
+        "setName": "Quintet Spectrum",
+        "color": "type_purple"
+    },
+    {
+        "cardType": "Oshi Holomem",
+        "image": "hBP02-006_OSR",
+        "number": "hBP02-006",
+        "name": "クレイジー オリー",
+        "setName": "Quintet Spectrum",
+        "color": "type_purple"
+    },
+    {
+        "cardType": "Oshi Holomem",
+        "image": "hBP02-007_OSR",
+        "number": "hBP02-007",
+        "name": "森カリオペ",
+        "setName": "Quintet Spectrum",
+        "color": "type_purple"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-008_C",
+        "number": "hBP02-008",
+        "name": "白上フブキ",
+        "setName": "Quintet Spectrum",
+        "color": "type_white"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-009_U",
+        "number": "hBP02-009",
+        "name": "白上フブキ",
+        "setName": "Quintet Spectrum",
+        "color": "type_white"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-010_C",
+        "number": "hBP02-010",
+        "name": "白上フブキ",
+        "setName": "Quintet Spectrum",
+        "color": "type_white"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-011_U",
+        "number": "hBP02-011",
+        "name": "白上フブキ",
+        "setName": "Quintet Spectrum",
+        "color": "type_white"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-012_R",
+        "number": "hBP02-012",
+        "name": "白上フブキ",
+        "setName": "Quintet Spectrum",
+        "color": "type_white"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-013_RR",
+        "number": "hBP02-013",
+        "name": "白上フブキ",
+        "setName": "Quintet Spectrum",
+        "color": "type_white"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-014_C",
+        "number": "hBP02-014",
+        "name": "白銀ノエル",
+        "setName": "Quintet Spectrum",
+        "color": "type_white"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-015_C",
+        "number": "hBP02-015",
+        "name": "白銀ノエル",
+        "setName": "Quintet Spectrum",
+        "color": "type_white"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-016_U",
+        "number": "hBP02-016",
+        "name": "白銀ノエル",
+        "setName": "Quintet Spectrum",
+        "color": "type_white"
+    },
+    {
+        "cardType": "BuzzHolomem",
+        "image": "hBP02-017_RR",
+        "number": "hBP02-017",
+        "name": "白銀ノエル",
+        "setName": "Quintet Spectrum",
+        "color": "type_white"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-018_C",
+        "number": "hBP02-018",
+        "name": "パヴォリア レイネ",
+        "setName": "Quintet Spectrum",
+        "color": "type_green"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-019_U",
+        "number": "hBP02-019",
+        "name": "パヴォリア レイネ",
+        "setName": "Quintet Spectrum",
+        "color": "type_green"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-020_C",
+        "number": "hBP02-020",
+        "name": "パヴォリア レイネ",
+        "setName": "Quintet Spectrum",
+        "color": "type_green"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-021_U",
+        "number": "hBP02-021",
+        "name": "パヴォリア レイネ",
+        "setName": "Quintet Spectrum",
+        "color": "type_green"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-022_R",
+        "number": "hBP02-022",
+        "name": "パヴォリア レイネ",
+        "setName": "Quintet Spectrum",
+        "color": "type_green"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-023_RR",
+        "number": "hBP02-023",
+        "name": "パヴォリア レイネ",
+        "setName": "Quintet Spectrum",
+        "color": "type_green"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-024_C",
+        "number": "hBP02-024",
+        "name": "大神ミオ",
+        "setName": "Quintet Spectrum",
+        "color": "type_green"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-025_C",
+        "number": "hBP02-025",
+        "name": "大神ミオ",
+        "setName": "Quintet Spectrum",
+        "color": "type_green"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-026_U",
+        "number": "hBP02-026",
+        "name": "大神ミオ",
+        "setName": "Quintet Spectrum",
+        "color": "type_green"
+    },
+    {
+        "cardType": "BuzzHolomem",
+        "image": "hBP02-027_RR",
+        "number": "hBP02-027",
+        "name": "大神ミオ",
+        "setName": "Quintet Spectrum",
+        "color": "type_green"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-028_C",
+        "number": "hBP02-028",
+        "name": "宝鐘マリン",
+        "setName": "Quintet Spectrum",
+        "color": "type_red"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-029_U",
+        "number": "hBP02-029",
+        "name": "宝鐘マリン",
+        "setName": "Quintet Spectrum",
+        "color": "type_red"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-030_C",
+        "number": "hBP02-030",
+        "name": "宝鐘マリン",
+        "setName": "Quintet Spectrum",
+        "color": "type_red"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-031_U",
+        "number": "hBP02-031",
+        "name": "宝鐘マリン",
+        "setName": "Quintet Spectrum",
+        "color": "type_red"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-032_R",
+        "number": "hBP02-032",
+        "name": "宝鐘マリン",
+        "setName": "Quintet Spectrum",
+        "color": "type_red"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-033_RR",
+        "number": "hBP02-033",
+        "name": "宝鐘マリン",
+        "setName": "Quintet Spectrum",
+        "color": "type_red"
+    },
+    {
+        "cardType": "BuzzHolomem",
+        "image": "hBP02-034_RR",
+        "number": "hBP02-034",
+        "name": "百鬼あやめ",
+        "setName": "Quintet Spectrum",
+        "color": "type_red"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-035_C",
+        "number": "hBP02-035",
+        "name": "沙花叉クロヱ",
+        "setName": "Quintet Spectrum",
+        "color": "type_blue"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-036_U",
+        "number": "hBP02-036",
+        "name": "沙花叉クロヱ",
+        "setName": "Quintet Spectrum",
+        "color": "type_blue"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-037_C",
+        "number": "hBP02-037",
+        "name": "沙花叉クロヱ",
+        "setName": "Quintet Spectrum",
+        "color": "type_blue"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-038_U",
+        "number": "hBP02-038",
+        "name": "沙花叉クロヱ",
+        "setName": "Quintet Spectrum",
+        "color": "type_blue"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-039_R",
+        "number": "hBP02-039",
+        "name": "沙花叉クロヱ",
+        "setName": "Quintet Spectrum",
+        "color": "type_blue"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-040_RR",
+        "number": "hBP02-040",
+        "name": "沙花叉クロヱ",
+        "setName": "Quintet Spectrum",
+        "color": "type_blue"
+    },
+    {
+        "cardType": "BuzzHolomem",
+        "image": "hBP02-041_RR",
+        "number": "hBP02-041",
+        "name": "猫又おかゆ",
+        "setName": "Quintet Spectrum",
+        "color": "type_blue"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-042_C",
+        "number": "hBP02-042",
+        "name": "紫咲シオン",
+        "setName": "Quintet Spectrum",
+        "color": "type_purple"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-043_U",
+        "number": "hBP02-043",
+        "name": "紫咲シオン",
+        "setName": "Quintet Spectrum",
+        "color": "type_purple"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-044_C",
+        "number": "hBP02-044",
+        "name": "紫咲シオン",
+        "setName": "Quintet Spectrum",
+        "color": "type_purple"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-045_U",
+        "number": "hBP02-045",
+        "name": "紫咲シオン",
+        "setName": "Quintet Spectrum",
+        "color": "type_purple"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-046_R",
+        "number": "hBP02-046",
+        "name": "紫咲シオン",
+        "setName": "Quintet Spectrum",
+        "color": "type_purple"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-047_RR",
+        "number": "hBP02-047",
+        "name": "紫咲シオン",
+        "setName": "Quintet Spectrum",
+        "color": "type_purple"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-048_C",
+        "number": "hBP02-048",
+        "name": "クレイジー オリー",
+        "setName": "Quintet Spectrum",
+        "color": "type_purple"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-049_U",
+        "number": "hBP02-049",
+        "name": "クレイジー オリー",
+        "setName": "Quintet Spectrum",
+        "color": "type_purple"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-050_C",
+        "number": "hBP02-050",
+        "name": "クレイジー オリー",
+        "setName": "Quintet Spectrum",
+        "color": "type_purple"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-051_U",
+        "number": "hBP02-051",
+        "name": "クレイジー オリー",
+        "setName": "Quintet Spectrum",
+        "color": "type_purple"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-052_R",
+        "number": "hBP02-052",
+        "name": "クレイジー オリー",
+        "setName": "Quintet Spectrum",
+        "color": "type_purple"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-053_RR",
+        "number": "hBP02-053",
+        "name": "クレイジー オリー",
+        "setName": "Quintet Spectrum",
+        "color": "type_purple"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-054_C",
+        "number": "hBP02-054",
+        "name": "森カリオペ",
+        "setName": "Quintet Spectrum",
+        "color": "type_purple"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-055_U",
+        "number": "hBP02-055",
+        "name": "森カリオペ",
+        "setName": "Quintet Spectrum",
+        "color": "type_purple"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-056_C",
+        "number": "hBP02-056",
+        "name": "森カリオペ",
+        "setName": "Quintet Spectrum",
+        "color": "type_purple"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-057_U",
+        "number": "hBP02-057",
+        "name": "森カリオペ",
+        "setName": "Quintet Spectrum",
+        "color": "type_purple"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-058_R",
+        "number": "hBP02-058",
+        "name": "森カリオペ",
+        "setName": "Quintet Spectrum",
+        "color": "type_purple"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-059_RR",
+        "number": "hBP02-059",
+        "name": "森カリオペ",
+        "setName": "Quintet Spectrum",
+        "color": "type_purple"
+    },
+    {
+        "cardType": "BuzzHolomem",
+        "image": "hBP02-060_R",
+        "number": "hBP02-060",
+        "name": "癒月ちょこ",
+        "setName": "Quintet Spectrum",
+        "color": "type_purple"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-061_C",
+        "number": "hBP02-061",
+        "name": "一伊那尓栖",
+        "setName": "Quintet Spectrum",
+        "color": "type_purple"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-062_C",
+        "number": "hBP02-062",
+        "name": "一伊那尓栖",
+        "setName": "Quintet Spectrum",
+        "color": "type_purple"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-063_U",
+        "number": "hBP02-063",
+        "name": "一伊那尓栖",
+        "setName": "Quintet Spectrum",
+        "color": "type_purple"
+    },
+    {
+        "cardType": "BuzzHolomem",
+        "image": "hBP02-064_RR",
+        "number": "hBP02-064",
+        "name": "一伊那尓栖",
+        "setName": "Quintet Spectrum",
+        "color": "type_purple"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-065_C",
+        "number": "hBP02-065",
+        "name": "ネリッサ レイヴンクロフト",
+        "setName": "Quintet Spectrum",
+        "color": "type_purple"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-066_C",
+        "number": "hBP02-066",
+        "name": "ネリッサ レイヴンクロフト",
+        "setName": "Quintet Spectrum",
+        "color": "type_purple"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-067_U",
+        "number": "hBP02-067",
+        "name": "ネリッサ レイヴンクロフト",
+        "setName": "Quintet Spectrum",
+        "color": "type_purple"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-068_R",
+        "number": "hBP02-068",
+        "name": "ネリッサ レイヴンクロフト",
+        "setName": "Quintet Spectrum",
+        "color": "type_purple"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-069_R",
+        "number": "hBP02-069",
+        "name": "魔法少女みこ",
+        "setName": "Quintet Spectrum",
+        "color": "type_null"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-070_R",
+        "number": "hBP02-070",
+        "name": "魔法少女かなた",
+        "setName": "Quintet Spectrum",
+        "color": "type_null"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-071_R",
+        "number": "hBP02-071",
+        "name": "魔法少女ルーナ",
+        "setName": "Quintet Spectrum",
+        "color": "type_null"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-072_R",
+        "number": "hBP02-072",
+        "name": "魔法少女シオン",
+        "setName": "Quintet Spectrum",
+        "color": "type_null"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-073_R",
+        "number": "hBP02-073",
+        "name": "魔法少女マリン",
+        "setName": "Quintet Spectrum",
+        "color": "type_null"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-074_R",
+        "number": "hBP02-074",
+        "name": "魔法少女クロヱ",
+        "setName": "Quintet Spectrum",
+        "color": "type_null"
+    },
+    {
+        "cardType": "Oshi Holomem",
+        "image": "hBP02-001_OUR",
+        "number": "hBP02-001",
+        "name": "白上フブキ",
+        "setName": "Quintet Spectrum",
+        "color": "type_white"
+    },
+    {
+        "cardType": "Oshi Holomem",
+        "image": "hBP02-001_SEC",
+        "number": "hBP02-001",
+        "name": "白上フブキ",
+        "color": "type_white"
+        "setName": "Quintet Spectrum",
+    },
+    {
+        "cardType": "Oshi Holomem",
+        "image": "hBP02-002_OUR",
+        "number": "hBP02-002",
+        "name": "パヴォリア レイネ",
+        "setName": "Quintet Spectrum",
+        "color": "type_green"
+    },
+    {
+        "cardType": "Oshi Holomem",
+        "image": "hBP02-003_OUR",
+        "number": "hBP02-003",
+        "name": "宝鐘マリン",
+        "setName": "Quintet Spectrum",
+        "color": "type_red"
+    },
+    {
+        "cardType": "Oshi Holomem",
+        "image": "hBP02-003_SEC",
+        "number": "hBP02-003",
+        "name": "宝鐘マリン",
+        "color": "type_red"
+        "setName": "Quintet Spectrum",
+    },
+    {
+        "cardType": "Oshi Holomem",
+        "image": "hBP02-004_OUR",
+        "number": "hBP02-004",
+        "name": "沙花叉クロヱ",
+        "setName": "Quintet Spectrum",
+        "color": "type_blue"
+    },
+    {
+        "cardType": "Oshi Holomem",
+        "image": "hBP02-004_SEC",
+        "number": "hBP02-004",
+        "name": "沙花叉クロヱ",
+        "color": "type_blue"
+        "setName": "Quintet Spectrum",
+    },
+    {
+        "cardType": "Oshi Holomem",
+        "image": "hBP02-005_OUR",
+        "number": "hBP02-005",
+        "name": "紫咲シオン",
+        "setName": "Quintet Spectrum",
+        "color": "type_purple"
+    },
+    {
+        "cardType": "Oshi Holomem",
+        "image": "hBP02-006_OUR",
+        "number": "hBP02-006",
+        "name": "クレイジー オリー",
+        "setName": "Quintet Spectrum",
+        "color": "type_purple"
+    },
+    {
+        "cardType": "Oshi Holomem",
+        "image": "hBP02-007_OUR",
+        "number": "hBP02-007",
+        "name": "森カリオペ",
+        "setName": "Quintet Spectrum",
+        "color": "type_purple"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-010_S",
+        "number": "hBP02-010",
+        "name": "白上フブキ",
+        "setName": "Quintet Spectrum",
+        "color": "type_white"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-011_S",
+        "number": "hBP02-011",
+        "name": "白上フブキ",
+        "setName": "Quintet Spectrum",
+        "color": "type_white"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-012_SR",
+        "number": "hBP02-012",
+        "name": "白上フブキ",
+        "setName": "Quintet Spectrum",
+        "color": "type_white"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-013_SR",
+        "number": "hBP02-013",
+        "name": "白上フブキ",
+        "setName": "Quintet Spectrum",
+        "color": "type_white"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-013_UR",
+        "number": "hBP02-013",
+        "name": "白上フブキ",
+        "setName": "Quintet Spectrum",
+        "color": "type_white"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-015_S",
+        "number": "hBP02-015",
+        "name": "白銀ノエル",
+        "setName": "Quintet Spectrum",
+        "color": "type_white"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-016_S",
+        "number": "hBP02-016",
+        "name": "白銀ノエル",
+        "setName": "Quintet Spectrum",
+        "color": "type_white"
+    },
+    {
+        "cardType": "BuzzHolomem",
+        "image": "hBP02-017_SR",
+        "number": "hBP02-017",
+        "name": "白銀ノエル",
+        "setName": "Quintet Spectrum",
+        "color": "type_white"
+    },
+    {
+        "cardType": "BuzzHolomem",
+        "image": "hBP02-017_UR",
+        "number": "hBP02-017",
+        "name": "白銀ノエル",
+        "setName": "Quintet Spectrum",
+        "color": "type_white"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-019_S",
+        "number": "hBP02-019",
+        "name": "パヴォリア レイネ",
+        "setName": "Quintet Spectrum",
+        "color": "type_green"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-020_S",
+        "number": "hBP02-020",
+        "name": "パヴォリア レイネ",
+        "setName": "Quintet Spectrum",
+        "color": "type_green"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-021_S",
+        "number": "hBP02-021",
+        "name": "パヴォリア レイネ",
+        "setName": "Quintet Spectrum",
+        "color": "type_green"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-022_SR",
+        "number": "hBP02-022",
+        "name": "パヴォリア レイネ",
+        "setName": "Quintet Spectrum",
+        "color": "type_green"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-023_SR",
+        "number": "hBP02-023",
+        "name": "パヴォリア レイネ",
+        "setName": "Quintet Spectrum",
+        "color": "type_green"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-023_UR",
+        "number": "hBP02-023",
+        "name": "パヴォリア レイネ",
+        "setName": "Quintet Spectrum",
+        "color": "type_green"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-025_S",
+        "number": "hBP02-025",
+        "name": "大神ミオ",
+        "setName": "Quintet Spectrum",
+        "color": "type_green"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-026_S",
+        "number": "hBP02-026",
+        "name": "大神ミオ",
+        "setName": "Quintet Spectrum",
+        "color": "type_green"
+    },
+    {
+        "cardType": "BuzzHolomem",
+        "image": "hBP02-027_SR",
+        "number": "hBP02-027",
+        "name": "大神ミオ",
+        "setName": "Quintet Spectrum",
+        "color": "type_green"
+    },
+    {
+        "cardType": "BuzzHolomem",
+        "image": "hBP02-027_UR",
+        "number": "hBP02-027",
+        "name": "大神ミオ",
+        "setName": "Quintet Spectrum",
+        "color": "type_green"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-030_S",
+        "number": "hBP02-030",
+        "name": "宝鐘マリン",
+        "setName": "Quintet Spectrum",
+        "color": "type_red"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-031_S",
+        "number": "hBP02-031",
+        "name": "宝鐘マリン",
+        "setName": "Quintet Spectrum",
+        "color": "type_red"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-032_SR",
+        "number": "hBP02-032",
+        "name": "宝鐘マリン",
+        "setName": "Quintet Spectrum",
+        "color": "type_red"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-033_SR",
+        "number": "hBP02-033",
+        "name": "宝鐘マリン",
+        "setName": "Quintet Spectrum",
+        "color": "type_red"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-033_UR",
+        "number": "hBP02-033",
+        "name": "宝鐘マリン",
+        "setName": "Quintet Spectrum",
+        "color": "type_red"
+    },
+    {
+        "cardType": "BuzzHolomem",
+        "image": "hBP02-034_SR",
+        "number": "hBP02-034",
+        "name": "百鬼あやめ",
+        "setName": "Quintet Spectrum",
+        "color": "type_red"
+    },
+    {
+        "cardType": "BuzzHolomem",
+        "image": "hBP02-034_UR",
+        "number": "hBP02-034",
+        "name": "百鬼あやめ",
+        "setName": "Quintet Spectrum",
+        "color": "type_red"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-036_S",
+        "number": "hBP02-036",
+        "name": "沙花叉クロヱ",
+        "setName": "Quintet Spectrum",
+        "color": "type_blue"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-037_S",
+        "number": "hBP02-037",
+        "name": "沙花叉クロヱ",
+        "setName": "Quintet Spectrum",
+        "color": "type_blue"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-038_S",
+        "number": "hBP02-038",
+        "name": "沙花叉クロヱ",
+        "setName": "Quintet Spectrum",
+        "color": "type_blue"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-039_SR",
+        "number": "hBP02-039",
+        "name": "沙花叉クロヱ",
+        "setName": "Quintet Spectrum",
+        "color": "type_blue"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-040_SR",
+        "number": "hBP02-040",
+        "name": "沙花叉クロヱ",
+        "setName": "Quintet Spectrum",
+        "color": "type_blue"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-040_UR",
+        "number": "hBP02-040",
+        "name": "沙花叉クロヱ",
+        "setName": "Quintet Spectrum",
+        "color": "type_blue"
+    },
+    {
+        "cardType": "BuzzHolomem",
+        "image": "hBP02-041_SR",
+        "number": "hBP02-041",
+        "name": "猫又おかゆ",
+        "setName": "Quintet Spectrum",
+        "color": "type_blue"
+    },
+    {
+        "cardType": "BuzzHolomem",
+        "image": "hBP02-041_UR",
+        "number": "hBP02-041",
+        "name": "猫又おかゆ",
+        "setName": "Quintet Spectrum",
+        "color": "type_blue"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-044_S",
+        "number": "hBP02-044",
+        "name": "紫咲シオン",
+        "setName": "Quintet Spectrum",
+        "color": "type_purple"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-045_S",
+        "number": "hBP02-045",
+        "name": "紫咲シオン",
+        "setName": "Quintet Spectrum",
+        "color": "type_purple"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-046_SR",
+        "number": "hBP02-046",
+        "name": "紫咲シオン",
+        "setName": "Quintet Spectrum",
+        "color": "type_purple"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-047_SR",
+        "number": "hBP02-047",
+        "name": "紫咲シオン",
+        "setName": "Quintet Spectrum",
+        "color": "type_purple"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-047_UR",
+        "number": "hBP02-047",
+        "name": "紫咲シオン",
+        "setName": "Quintet Spectrum",
+        "color": "type_purple"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-049_S",
+        "number": "hBP02-049",
+        "name": "クレイジー オリー",
+        "setName": "Quintet Spectrum",
+        "color": "type_purple"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-050_S",
+        "number": "hBP02-050",
+        "name": "クレイジー オリー",
+        "setName": "Quintet Spectrum",
+        "color": "type_purple"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-051_S",
+        "number": "hBP02-051",
+        "name": "クレイジー オリー",
+        "setName": "Quintet Spectrum",
+        "color": "type_purple"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-052_SR",
+        "number": "hBP02-052",
+        "name": "クレイジー オリー",
+        "setName": "Quintet Spectrum",
+        "color": "type_purple"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-053_SR",
+        "number": "hBP02-053",
+        "name": "クレイジー オリー",
+        "setName": "Quintet Spectrum",
+        "color": "type_purple"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-053_UR",
+        "number": "hBP02-053",
+        "name": "クレイジー オリー",
+        "setName": "Quintet Spectrum",
+        "color": "type_purple"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-055_S",
+        "number": "hBP02-055",
+        "name": "森カリオペ",
+        "setName": "Quintet Spectrum",
+        "color": "type_purple"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-056_S",
+        "number": "hBP02-056",
+        "name": "森カリオペ",
+        "setName": "Quintet Spectrum",
+        "color": "type_purple"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-057_S",
+        "number": "hBP02-057",
+        "name": "森カリオペ",
+        "setName": "Quintet Spectrum",
+        "color": "type_purple"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-058_SR",
+        "number": "hBP02-058",
+        "name": "森カリオペ",
+        "setName": "Quintet Spectrum",
+        "color": "type_purple"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-059_SR",
+        "number": "hBP02-059",
+        "name": "森カリオペ",
+        "setName": "Quintet Spectrum",
+        "color": "type_purple"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-059_UR",
+        "number": "hBP02-059",
+        "name": "森カリオペ",
+        "setName": "Quintet Spectrum",
+        "color": "type_purple"
+    },
+    {
+        "cardType": "BuzzHolomem",
+        "image": "hBP02-060_SR",
+        "number": "hBP02-060",
+        "name": "癒月ちょこ",
+        "setName": "Quintet Spectrum",
+        "color": "type_purple"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-062_S",
+        "number": "hBP02-062",
+        "name": "一伊那尓栖",
+        "setName": "Quintet Spectrum",
+        "color": "type_purple"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-063_S",
+        "number": "hBP02-063",
+        "name": "一伊那尓栖",
+        "setName": "Quintet Spectrum",
+        "color": "type_purple"
+    },
+    {
+        "cardType": "BuzzHolomem",
+        "image": "hBP02-064_SR",
+        "number": "hBP02-064",
+        "name": "一伊那尓栖",
+        "setName": "Quintet Spectrum",
+        "color": "type_purple"
+    },
+    {
+        "cardType": "BuzzHolomem",
+        "image": "hBP02-064_UR",
+        "number": "hBP02-064",
+        "name": "一伊那尓栖",
+        "setName": "Quintet Spectrum",
+        "color": "type_purple"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-066_S",
+        "number": "hBP02-066",
+        "name": "ネリッサ レイヴンクロフト",
+        "setName": "Quintet Spectrum",
+        "color": "type_purple"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-067_S",
+        "number": "hBP02-067",
+        "name": "ネリッサ レイヴンクロフト",
+        "setName": "Quintet Spectrum",
+        "color": "type_purple"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-068_SR",
+        "number": "hBP02-068",
+        "name": "ネリッサ レイヴンクロフト",
+        "setName": "Quintet Spectrum",
+        "color": "type_purple"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-069_SR",
+        "number": "hBP02-069",
+        "name": "魔法少女みこ",
+        "setName": "Quintet Spectrum",
+        "color": "type_null"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-070_SR",
+        "number": "hBP02-070",
+        "name": "魔法少女かなた",
+        "setName": "Quintet Spectrum",
+        "color": "type_null"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "   -071_SR",
+        "number": "hBP02-071",
+        "name": "魔法少女ルーナ",
+        "setName": "Quintet Spectrum",
+        "color": "type_null"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-072_SR",
+        "number": "hBP02-072",
+        "name": "魔法少女シオン",
+        "setName": "Quintet Spectrum",
+        "color": "type_null"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-073_SR",
+        "number": "hBP02-073",
+        "name": "魔法少女マリン",
+        "setName": "Quintet Spectrum",
+        "color": "type_null"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP02-074_SR",
+        "number": "hBP02-074",
+        "name": "魔法少女クロヱ",
+        "setName": "Quintet Spectrum",
+        "color": "type_null"
+    },
+    {
+        "cardType": "event item LIMITED",
+        "image": "hBP02-075_U",
+        "number": "hBP02-075",
+        "name": "アイドルサインペン",
+        "setName": "Quintet Spectrum",
+        "color": "type_void"
+    },
+    {
+        "cardType": "event item",
+        "image": "hBP02-076_C",
+        "number": "hBP02-076",
+        "name": "カスタムパソコン",
+        "setName": "Quintet Spectrum",
+        "color": "type_void"
+    },
+    {
+        "cardType": "event item LIMITED",
+        "image": "hBP02-077_C",
+        "number": "hBP02-077",
+        "name": "レトロパソコン",
+        "setName": "Quintet Spectrum",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support event LIMITED",
+        "image": "hBP02-078_U",
+        "number": "hBP02-078",
+        "name": "かなた建設",
+        "setName": "Quintet Spectrum",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support event",
+        "image": "hBP02-079_U",
+        "number": "hBP02-079",
+        "name": "爆発の魔法",
+        "setName": "Quintet Spectrum",
+        "color": "type_void"
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support event LIMITED",
+        "image": "hBP02-080_U",
+        "number": "hBP02-080",
+        "name": "秘密結社holoX",
+        "setName": "Quintet Spectrum",
+        "color": "type_void"
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support event LIMITED",
+        "image": "hBP02-081_U",
+        "number": "hBP02-081",
+        "name": "ホロライブ インドネシア2期生",
+        "setName": "Quintet Spectrum",
+        "color": "type_void"
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support event LIMITED",
+        "image": "hBP02-082_U",
+        "number": "hBP02-082",
+        "name": "ホロライブゲーマーズ",
+        "setName": "Quintet Spectrum",
+        "color": "type_void"
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support event",
+        "image": "hBP02-083_U",
+        "number": "hBP02-083",
+        "name": "魔法のタンス",
+        "setName": "Quintet Spectrum",
+        "color": "type_void"
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support event LIMITED",
+        "image": "hBP02-084_U",
+        "number": "hBP02-084",
+        "name": "みっころね24",
+        "setName": "Quintet Spectrum",
+        "color": "type_void"
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support event LIMITED",
+        "image": "hBP02-085_U",
+        "number": "hBP02-085",
+        "name": "HOLOLIVE FANTASY",
+        "setName": "Quintet Spectrum",
+        "color": "type_void"
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support tool",
+        "image": "hBP02-086_C",
+        "number": "hBP02-086",
+        "name": "ホロスパークリング",
+        "setName": "Quintet Spectrum",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support tool",
+        "image": "hBP02-087_C",
+        "number": "hBP02-087",
+        "name": "紫咲シオンの魔法のステッキ",
+        "setName": "Quintet Spectrum",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support tool",
+        "image": "hBP02-088_U",
+        "number": "hBP02-088",
+        "name": "森カリオペの鎌",
+        "setName": "Quintet Spectrum",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support mascotte",
+        "image": "hBP02-089_C",
+        "number": "hBP02-089",
+        "name": "おるやんけ",
+        "setName": "Quintet Spectrum",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support mascotte",
+        "image": "hBP02-090_C",
+        "number": "hBP02-090",
+        "name": "ネジマキツネ",
+        "setName": "Quintet Spectrum",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support mascotte",
+        "image": "hBP02-091_C",
+        "number": "hBP02-091",
+        "name": "フブチュン",
+        "setName": "Quintet Spectrum",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support mascotte",
+        "image": "hBP02-092_U",
+        "number": "hBP02-092",
+        "name": "フブラ",
+        "setName": "Quintet Spectrum",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support mascotte",
+        "image": "hBP02-093_C",
+        "number": "hBP02-093",
+        "name": "ミテイル",
+        "setName": "Quintet Spectrum",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support mascotte",
+        "image": "hBP02-094_C",
+        "number": "hBP02-094",
+        "name": "Tatang",
+        "setName": "Quintet Spectrum",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support mascotte",
+        "image": "hBP02-095_C",
+        "number": "hBP02-095",
+        "name": "ドクロくん",
+        "setName": "Quintet Spectrum",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support mascotte",
+        "image": "hBP02-096_C",
+        "number": "hBP02-096",
+        "name": "イヌ",
+        "setName": "Quintet Spectrum",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support mascotte",
+        "image": "hBP02-097_C",
+        "number": "hBP02-097",
+        "name": "UDIN",
+        "setName": "Quintet Spectrum",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support mascotte",
+        "image": "hBP02-098_C",
+        "number": "hBP02-098",
+        "name": "Death-sensei",
+        "setName": "Quintet Spectrum",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support fan",
+        "image": "hBP02-099_C",
+        "number": "hBP02-099",
+        "name": "すこん部",
+        "setName": "Quintet Spectrum",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support fan",
+        "image": "hBP02-100_C",
+        "number": "hBP02-100",
+        "name": "白銀聖騎士団",
+        "setName": "Quintet Spectrum",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support fan",
+        "image": "hBP02-101_C",
+        "number": "hBP02-101",
+        "name": "ミオファ",
+        "setName": "Quintet Spectrum",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support fan",
+        "image": "hBP02-102_C",
+        "number": "hBP02-102",
+        "name": "塩っ子",
+        "setName": "Quintet Spectrum",
+        "color": "type_void"
+    },
+    {
+        "cardType": "cheer",
+        "image": "hY01-001_C",
+        "number": "hY01-001",
+        "name": "white cheer",
+        "setName": "Quintet Spectrum",
+        "color": "type_white"
+    },
+    {
+        "cardType": "cheer",
+        "image": "hY02-001_C",
+        "number": "hY02-001",
+        "name": "green cheer",
+        "setName": "Quintet Spectrum",
+        "color": "type_green"
+    },
+    {
+        "cardType": "cheer",
+        "image": "hY03-001_C",
+        "number": "hY03-001",
+        "name": "red cheer",
+        "setName": "Quintet Spectrum",
+        "color": "type_red"
+    },
+    {
+        "cardType": "cheer",
+        "image": "hY04-001_C",
+        "number": "hY04-001",
+        "name": "blue cheer",
+        "setName": "Quintet Spectrum",
+        "color": "type_blue"
+    },
+    {
+        "cardType": "cheer",
+        "image": "hY05-001_C",
+        "number": "hY05-001",
+        "name": "purple cheer",
+        "setName": "Quintet Spectrum",
+        "color": "type_purple"
+    },
+    {
+        "cardType": "event item LIMITED",
+        "image": "hBP02-075_S",
+        "number": "hBP02-075",
+        "name": "アイドルサインペン",
+        "setName": "Quintet Spectrum",
+        "color": "type_void"
+    },
+    {
+        "cardType": "event item",
+        "image": "hBP02-076_S",
+        "number": "hBP02-076",
+        "name": "カスタムパソコン",
+        "setName": "Quintet Spectrum",
+        "color": "type_void"
+    },
+    {
+        "cardType": "event item LIMITED",
+        "image": "hBP02-077_S",
+        "number": "hBP02-077",
+        "name": "レトロパソコン",
+        "setName": "Quintet Spectrum",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support event LIMITED",
+        "image": "hBP02-078_S",
+        "number": "hBP02-078",
+        "name": "かなた建設",
+        "setName": "Quintet Spectrum",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support event",
+        "image": "hBP02-079_S",
+        "number": "hBP02-079",
+        "name": "爆発の魔法",
+        "setName": "Quintet Spectrum",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support event LIMITED",
+        "image": "hBP02-080_S",
+        "number": "hBP02-080",
+        "name": "秘密結社holoX",
+        "setName": "Quintet Spectrum",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support event LIMITED",
+        "image": "hBP02-081_S",
+        "number": "hBP02-081",
+        "name": "ホロライブ インドネシア2期生",
+        "setName": "Quintet Spectrum",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support event LIMITED",
+        "image": "hBP02-082_S",
+        "number": "hBP02-082",
+        "name": "ホロライブゲーマーズ",
+        "setName": "Quintet Spectrum",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support event",
+        "image": "hBP02-083_S",
+        "number": "hBP02-083",
+        "name": "魔法のタンス",
+        "setName": "Quintet Spectrum",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support event LIMITED",
+        "image": "hBP02-084_S",
+        "number": "hBP02-084",
+        "name": "みっころね24",
+        "setName": "Quintet Spectrum",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support event LIMITED",
+        "image": "hBP02-084_SEC",
+        "number": "hBP02-084",
+        "name": "みっころね24",
+        "setName": "Quintet Spectrum",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support event LIMITED",
+        "image": "hBP02-085_S",
+        "number": "hBP02-085",
+        "name": "HOLOLIVE FANTASY",
+        "setName": "Quintet Spectrum",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support tool",
+        "image": "hBP02-086_S",
+        "number": "hBP02-086",
+        "name": "ホロスパークリング",
+        "setName": "Quintet Spectrum",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support tool",
+        "image": "hBP02-087_S",
+        "number": "hBP02-087",
+        "name": "紫咲シオンの魔法のステッキ",
+        "setName": "Quintet Spectrum",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support tool",
+        "image": "hBP02-088_S",
+        "number": "hBP02-088",
+        "name": "森カリオペの鎌",
+        "setName": "Quintet Spectrum",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support mascotte",
+        "image": "hBP02-089_S",
+        "number": "hBP02-089",
+        "name": "おるやんけ",
+        "setName": "Quintet Spectrum",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support mascotte",
+        "image": "hBP02-090_S",
+        "number": "hBP02-090",
+        "name": "ネジマキツネ",
+        "setName": "Quintet Spectrum",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support mascotte",
+        "image": "hBP02-091_S",
+        "number": "hBP02-091",
+        "name": "フブチュン",
+        "setName": "Quintet Spectrum",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support mascotte",
+        "image": "hBP02-092_S",
+        "number": "hBP02-092",
+        "name": "フブラ",
+        "setName": "Quintet Spectrum",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support mascotte",
+        "image": "hBP02-093_S",
+        "number": "hBP02-093",
+        "name": "ミテイル",
+        "setName": "Quintet Spectrum",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support mascotte",
+        "image": "hBP02-094_S",
+        "number": "hBP02-094",
+        "name": "Tatang",
+        "setName": "Quintet Spectrum",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support mascotte",
+        "image": "hBP02-095_S",
+        "number": "hBP02-095",
+        "name": "ドクロくん",
+        "setName": "Quintet Spectrum",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support mascotte",
+        "image": "hBP02-096_S",
+        "number": "hBP02-096",
+        "name": "イヌ",
+        "setName": "Quintet Spectrum",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support mascotte",
+        "image": "hBP02-097_S",
+        "number": "hBP02-097",
+        "name": "UDIN",
+        "setName": "Quintet Spectrum",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support mascotte",
+        "image": "hBP02-098_S",
+        "number": "hBP02-098",
+        "name": "Death-sensei",
+        "setName": "Quintet Spectrum",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support fan",
+        "image": "hBP02-099_S",
+        "number": "hBP02-099",
+        "name": "すこん部",
+        "setName": "Quintet Spectrum",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support fan",
+        "image": "hBP02-100_S",
+        "number": "hBP02-100",
+        "name": "白銀聖騎士団",
+        "setName": "Quintet Spectrum",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support fan",
+        "image": "hBP02-101_S",
+        "number": "hBP02-101",
+        "name": "ミオファ",
+        "setName": "Quintet Spectrum",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support fan",
+        "image": "hBP02-102_S",
+        "number": "hBP02-102",
+        "name": "塩っ子",
+        "setName": "Quintet Spectrum",
+        "color": "type_void"
+    },
+    {
+        "cardType": "cheer",
+        "image": "hY01-003_SY",
+        "number": "hY01-003",
+        "name": "white cheer",
+        "setName": "Quintet Spectrum",
+        "color": "type_white"
+    },
+    {
+        "cardType": "cheer",
+        "image": "hY02-002_SY",
+        "number": "hY02-002",
+        "name": "green cheer",
+        "setName": "Quintet Spectrum",
+        "color": "type_green"
+    },
+    {
+        "cardType": "cheer",
+        "image": "hY03-002_SY",
+        "number": "hY03-002",
+        "name": "red cheer",
+        "setName": "Quintet Spectrum",
+        "color": "type_red"
+    },
+    {
+        "cardType": "cheer",
+        "image": "hY04-002_SY",
+        "number": "hY04-002",
+        "name": "blue cheer",
+        "setName": "Quintet Spectrum",
+        "color": "type_blue"
+    },
+    {
+        "cardType": "cheer",
+        "image": "hY05-002_SY",
+        "number": "hY05-002",
+        "name": "purple cheer",
+        "setName": "Quintet Spectrum",
+        "color": "type_purple"
+    }
+]
+
