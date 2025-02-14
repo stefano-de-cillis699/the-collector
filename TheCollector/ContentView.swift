@@ -12,7 +12,7 @@ struct CardsView: View {
     //    @ObservedObject var data = ReadJsonData()
     @State var detail: Card? = nil
     @State private var isShowingDownloadSheet = false
-    @Query(sort: \Card.number) var cards: [Card]
+    @Query() var cards: [Card]
 
     var cardGrid: some View {
         NavigationStack {
@@ -35,7 +35,7 @@ struct CardsView: View {
                     .navigationBarTitleDisplayMode(.large)
                     .toolbar {
                         if !cards.isEmpty {
-                            Button("Show Sheet not empty") {
+                            Button("Add Card") {
                                 isShowingDownloadSheet.toggle()
                             }.sheet(isPresented: $isShowingDownloadSheet) {
                                 AddDownloadSheet()
