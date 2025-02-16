@@ -9,7 +9,6 @@ import SwiftData
 import SwiftUI
 
 struct CardsView: View {
-    //    @ObservedObject var data = ReadJsonData()
     @State var detail: Card? = nil
     @State private var isShowingDownloadSheet = false
     @Query() var cards: [Card]
@@ -89,7 +88,7 @@ struct CardsView: View {
         @Environment(\.modelContext) var context
 
         @State private var cardType: String = "Oshi"
-        @State private var name: String = "name"
+        @State private var name: String = "BANANA22"
         @State private var number: String = "H34"
         @State private var color: String = "red"
         @State private var image: String = "hBP02-001_OSR"
@@ -98,34 +97,25 @@ struct CardsView: View {
 
         var body: some View {
             NavigationStack {
-                Form {
-                    TextField("cardType", text: $cardType)
-                    TextField("name", text: $name)
-                    TextField("number", text: $number)
-                    TextField("color", text: $color)
-                    TextField("image", text: $image)
-                    TextField("setName", text: $setName)
-                    TextField("rarity", text: $rarity)
+                VStack {
+                    Group {
+                        Button("Caster") {
+                            // load caster.json
+                        }
+                        Divider()
+                        Button("Hololive - Blooming Radiance") {
+                            // load bloomingRadiance.json
+                        }
+                        Button("Hololive - Quintet Specrum") {
+                            
+                            dismiss()
+                        }
+                    }.buttonStyle(.borderedProminent)
                 }.navigationTitle("Download Cards")
                     .navigationBarTitleDisplayMode(.inline)
                     .toolbar {
                         ToolbarItemGroup(placement: .topBarLeading) {
                             Button("Cancel") { dismiss() }
-                        }
-                        ToolbarItemGroup(placement: .topBarTrailing) {
-                            Button("Save") {
-                                let card = Card(
-                                    cardType: cardType,
-                                    name: name,
-                                    number: number,
-                                    color: color,
-                                    image: image,
-                                    setName: setName,
-                                    rarity: rarity
-                                )
-                                context.insert(card)
-                                dismiss()
-                            }
                         }
                     }
             }

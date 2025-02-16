@@ -5,14 +5,14 @@
 //  Created by Stefano De Cillis on 27/01/25.
 //
 
-import SwiftUI
 import SwiftData
+import SwiftUI
 
 @main
 struct TheCollectorApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
-        }.modelContainer(for: Card.self)
+        }.modelContainer(for: [Game.self, Card.self, Expansion.self])
     }
 }

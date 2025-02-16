@@ -1,0 +1,26 @@
+[
+    {
+        "code": "hBP01",
+        "name": "Blooming Radiance",
+        "image": "image",
+        "gameCode": "holo"
+    },
+    {
+        "code": "hBP01",
+        "name": "Quintet Spectrum",
+        "image": "image",
+        "gameCode": "holo"
+    },
+    {
+        "code": "hBP01",
+        "name": "Elite Spark",
+        "image": "image",
+        "gameCode": "holo"
+    },
+    {
+        "code": "exp1",
+        "name": "Exp1",
+        "image": "image",
+        "gameId": "cach"
+    }
+]

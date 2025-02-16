@@ -1,0 +1,17 @@
+[
+    {
+        "code": "HOLO",
+        "name": "Hololive OCG",
+        "image": "image"
+    },
+    {
+        "code": "CACH",
+        "name": "Caster Chronicles",
+        "image": "image"
+    }
+    {
+        "code": "PKMN",
+        "name": "Pokemon",
+        "image": "image"
+    }
+]

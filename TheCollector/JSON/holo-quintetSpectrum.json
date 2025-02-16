@@ -604,8 +604,8 @@
         "image": "hBP02-001_SEC",
         "number": "hBP02-001",
         "name": "白上フブキ",
-        "color": "type_white"
-        "setName": "Quintet Spectrum",
+        "color": "type_white",
+        "setName": "Quintet Spectrum"
     },
     {
         "cardType": "Oshi Holomem",
@@ -628,8 +628,8 @@
         "image": "hBP02-003_SEC",
         "number": "hBP02-003",
         "name": "宝鐘マリン",
-        "color": "type_red"
-        "setName": "Quintet Spectrum",
+        "color": "type_red",
+        "setName": "Quintet Spectrum"
     },
     {
         "cardType": "Oshi Holomem",
@@ -644,8 +644,8 @@
         "image": "hBP02-004_SEC",
         "number": "hBP02-004",
         "name": "沙花叉クロヱ",
-        "color": "type_blue"
-        "setName": "Quintet Spectrum",
+        "color": "type_blue",
+        "setName": "Quintet Spectrum"
     },
     {
         "cardType": "Oshi Holomem",
@@ -1230,7 +1230,6 @@
         "name": "爆発の魔法",
         "setName": "Quintet Spectrum",
         "color": "type_void"
-        "color": "type_void"
     },
     {
         "cardType": "Support event LIMITED",
@@ -1238,7 +1237,6 @@
         "number": "hBP02-080",
         "name": "秘密結社holoX",
         "setName": "Quintet Spectrum",
-        "color": "type_void"
         "color": "type_void"
     },
     {
@@ -1248,7 +1246,6 @@
         "name": "ホロライブ インドネシア2期生",
         "setName": "Quintet Spectrum",
         "color": "type_void"
-        "color": "type_void"
     },
     {
         "cardType": "Support event LIMITED",
@@ -1256,7 +1253,6 @@
         "number": "hBP02-082",
         "name": "ホロライブゲーマーズ",
         "setName": "Quintet Spectrum",
-        "color": "type_void"
         "color": "type_void"
     },
     {
@@ -1266,7 +1262,6 @@
         "name": "魔法のタンス",
         "setName": "Quintet Spectrum",
         "color": "type_void"
-        "color": "type_void"
     },
     {
         "cardType": "Support event LIMITED",
@@ -1275,7 +1270,6 @@
         "name": "みっころね24",
         "setName": "Quintet Spectrum",
         "color": "type_void"
-        "color": "type_void"
     },
     {
         "cardType": "Support event LIMITED",
@@ -1283,7 +1277,6 @@
         "number": "hBP02-085",
         "name": "HOLOLIVE FANTASY",
         "setName": "Quintet Spectrum",
-        "color": "type_void"
         "color": "type_void"
     },
     {
@@ -1735,4 +1728,3 @@
         "color": "type_purple"
     }
 ]
-
