@@ -82,50 +82,66 @@ struct CardsView: View {
         }
     }
 
-    struct AddDownloadSheet: View {
-
-        @Environment(\.dismiss) private var dismiss
-        @Environment(\.modelContext) var context
-
-        @State private var cardType: String = "Oshi"
-        @State private var name: String = "BANANA22"
-        @State private var number: String = "H34"
-        @State private var color: String = "red"
-        @State private var image: String = "hBP02-001_OSR"
-        @State private var setName: String = "quintet"
-        @State private var rarity: String = "OSR"
-
-        var body: some View {
-            NavigationStack {
-                VStack {
-                    Group {
-                        Button("Caster") {
-                            // load caster.json
-                        }
-                        Divider()
-                        Button("Hololive - Blooming Radiance") {
-                            // load bloomingRadiance.json
-                        }
-                        Button("Hololive - Quintet Specrum") {
-                            
-                            dismiss()
-                        }
-                    }.buttonStyle(.borderedProminent)
-                }.navigationTitle("Download Cards")
-                    .navigationBarTitleDisplayMode(.inline)
-                    .toolbar {
-                        ToolbarItemGroup(placement: .topBarLeading) {
-                            Button("Cancel") { dismiss() }
-                        }
-                    }
-            }
-        }
-    }
-
     var body: some View {
         cardGrid
         detailsView
     }
+}
+
+struct AddDownloadSheet: View {
+
+    @Environment(\.modelContext) var context
+    @Environment(\.dismiss) private var dismiss
+
+    var body: some View {
+        NavigationStack {
+            VStack {
+                Group {
+                    Button("Caster") {
+                        // load caster.json
+                    }
+                    Divider()
+                    Button("Hololive - Blooming Radiance") {
+                        // load bloomingRadiance.json
+                    }
+                    Button("Hololive - Quintet Spectrum") {
+                        //                        print("mi sono rotto le scatole")
+                        let res = expSheet(expName: "holo-quintetSpectrum")
+                        print(res.cardType)
+                        context.insert(res)
+                        dismiss()
+                    }
+                }.buttonStyle(.borderedProminent)
+            }.navigationTitle("Download Cards")
+                .navigationBarTitleDisplayMode(.inline)
+                .toolbar {
+                    ToolbarItemGroup(placement: .topBarLeading) {
+                        Button("Cancel") { dismiss() }
+                    }
+                }
+        }
+    }
+}
+
+func expSheet(expName: String) -> Card {
+    @ObservedObject var cardData: ReadCardData
+
+    let test = ReadCardData.ExpansionSet(expName: expName)
+    cardData = ReadCardData(expansion: test)
+
+    let cardSet = Card(
+        cardType: cardData.cards[0].cardType,
+        name: cardData.cards[0].name,
+        number: cardData.cards[0].number,
+        color: cardData.cards[0].color ?? "type_void",
+        image: cardData.cards[0].image ?? "",
+        setName: cardData.cards[0].setName,
+        rarity: "C",
+        gameCode: "holo",
+        expansionCode: "hBP02"
+    )
+    return cardSet
+
 }
 
 struct ContentView: View {

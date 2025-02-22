@@ -13,23 +13,23 @@ class Expansion {
     enum CodingKeys: CodingKey {
         case name
         case image
-        case gameId
+        case gameCode
     }
 
     var id = UUID()
     var name: String
     var image: String?
-    var gameId: Int
+    var gameCode: String
 
     init(
         id: UUID = UUID(),
         name: String,
         image: String,
-        gameId: Int
+        gameCode: String
     ) {
         self.id = id
         self.name = name
         self.image = image
-        self.gameId = gameId
+        self.gameCode = gameCode
     }
 }

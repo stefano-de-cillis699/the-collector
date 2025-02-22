@@ -1,14 +1,14 @@
 [
     {
-        "code": "HOLO",
+        "code": "holo",
         "name": "Hololive OCG",
         "image": "image"
     },
     {
-        "code": "CACH",
+        "code": "cach",
         "name": "Caster Chronicles",
         "image": "image"
-    }
+    },
     {
         "code": "PKMN",
         "name": "Pokemon",

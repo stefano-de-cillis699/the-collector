@@ -18,8 +18,8 @@ class Card {
         case image
         case setName
         case rarity
-        case gameId
-        case expansionId
+        case gameCode
+        case expansionCode
     }
     
     var id = UUID()
@@ -30,8 +30,8 @@ class Card {
     var image: String
     var setName: String
     var rarity: String
-    var gameId: Int
-    var expansionId: Int
+    var gameCode: String
+    var expansionCode: String
     
     init(
         id: UUID = UUID(),
@@ -42,8 +42,8 @@ class Card {
         image: String,
         setName: String,
         rarity: String,
-        gameId: Int,
-        expansionId: Int
+        gameCode: String,
+        expansionCode: String
     ) {
         self.id = id
         self.cardType = cardType
@@ -53,7 +53,7 @@ class Card {
         self.image = image
         self.setName = setName
         self.rarity = rarity
-        self.gameId = gameId
-        self.expansionId = expansionId
+        self.gameCode = gameCode
+        self.expansionCode = expansionCode
     }
 }
