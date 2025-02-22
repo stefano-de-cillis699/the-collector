@@ -81,7 +81,9 @@ struct CardI: Codable, Identifiable {
     var color: String? = "type_void"
     var image: String?
     var setName: String
-    var rarity: String = "C"
+    var rarity: String = ""
+    var gameCode: String = ""
+    var expansionCode: String = ""
 
     init(
         id: UUID = UUID(),
@@ -91,7 +93,9 @@ struct CardI: Codable, Identifiable {
         color: String,
         image: String,
         setName: String,
-        rarity: String
+        rarity: String,
+         gameCode: String,
+         expansionCode: String
     ) {
         self.id = id
         self.cardType = cardType
@@ -101,6 +105,8 @@ struct CardI: Codable, Identifiable {
         self.image = image
         self.setName = setName
         self.rarity = rarity
+        self.gameCode = gameCode
+        self.expansionCode = expansionCode
     }
 }
 

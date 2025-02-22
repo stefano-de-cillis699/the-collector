@@ -93,6 +93,12 @@ struct AddDownloadSheet: View {
     @Environment(\.modelContext) var context
     @Environment(\.dismiss) private var dismiss
 
+    @State private var cardType: String = "Oshi"
+    @State private var name: String = "name"
+    @State private var number: String = "H34"
+    @State private var color: String = "red"
+    @State private var image: String = "hBP02-001_OSR"
+    
     var body: some View {
         NavigationStack {
             VStack {
@@ -105,9 +111,29 @@ struct AddDownloadSheet: View {
                         // load bloomingRadiance.json
                     }
                     Button("Hololive - Quintet Spectrum") {
-                        //                        print("mi sono rotto le scatole")
                         let res = expSheet(expName: "holo-quintetSpectrum")
-                        print(res.cardType)
+                        
+//                        let cardSet = Card(
+//                            cardType: "card",
+//                            name: "name",
+//                            number: "number",
+//                            color: "olo",
+//                            image: "imsgr",
+//                            setName: "Holo Qintet"
+//                            rarity: "C",
+//                            gameCode: "holo",
+//                            expansionCode: "hBP02"
+//                        )
+//                        print(res.cardType)
+//                        print(res.name)
+//                        print(res.number)
+//                        print(res.color)
+//                        print(res.image)
+//                        print(res.rarity)
+//                        print(res.setName)
+//                        print(res.gameCode)
+//                        print(res.expansionCode)
+//                        context.insert(cardSet)
                         context.insert(res)
                         dismiss()
                     }
@@ -130,15 +156,15 @@ func expSheet(expName: String) -> Card {
     cardData = ReadCardData(expansion: test)
 
     let cardSet = Card(
-        cardType: cardData.cards[0].cardType,
-        name: cardData.cards[0].name,
-        number: cardData.cards[0].number,
-        color: cardData.cards[0].color ?? "type_void",
-        image: cardData.cards[0].image ?? "",
-        setName: cardData.cards[0].setName,
-        rarity: "C",
-        gameCode: "holo",
-        expansionCode: "hBP02"
+        cardType: cardData.cards[9].cardType,
+        name: cardData.cards[9].name,
+        number: cardData.cards[9].number,
+        color: cardData.cards[9].color ?? "type_void",
+        image: cardData.cards[9].image ?? "",
+        setName: cardData.cards[9].setName
+//        rarity: "C",
+//        gameCode: "holo",
+//        expansionCode: "hBP02"
     )
     return cardSet
 
