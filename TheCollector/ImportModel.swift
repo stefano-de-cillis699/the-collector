@@ -72,6 +72,7 @@ struct CardI: Codable, Identifiable {
         case color
         case image
         case setName
+        case rarity
     }
 
     var id = UUID()
@@ -81,9 +82,9 @@ struct CardI: Codable, Identifiable {
     var color: String? = "type_void"
     var image: String?
     var setName: String
-    var rarity: String = ""
-    var gameCode: String = ""
-    var expansionCode: String = ""
+    var rarity: String
+    var gameCode: String = "xx"
+    var expansionCode: String = "xx"
 
     init(
         id: UUID = UUID(),
@@ -94,8 +95,8 @@ struct CardI: Codable, Identifiable {
         image: String,
         setName: String,
         rarity: String,
-         gameCode: String,
-         expansionCode: String
+        gameCode: String,
+        expansionCode: String
     ) {
         self.id = id
         self.cardType = cardType
@@ -113,7 +114,7 @@ struct CardI: Codable, Identifiable {
 class ReadData: ObservableObject {
     @Published var games = [GameI]()
     @Published var expansions = [ExpansionI]()
-    
+
     init() {
         loadGameData()
         loadExpansionData()
@@ -121,7 +122,8 @@ class ReadData: ObservableObject {
 
     func loadGameData() {
         guard
-            let url = Bundle.main.url(forResource: "games", withExtension: "json")
+            let url = Bundle.main.url(
+                forResource: "games", withExtension: "json")
         else {
             print("File not found")
             return
@@ -143,7 +145,8 @@ class ReadData: ObservableObject {
         }
 
         let data = try? Data(contentsOf: url)
-        let expansions = try? JSONDecoder().decode([ExpansionI].self, from: data!)
+        let expansions = try? JSONDecoder().decode(
+            [ExpansionI].self, from: data!)
         self.expansions = expansions!
 
     }
@@ -153,19 +156,19 @@ class ReadData: ObservableObject {
 class ReadCardData: ObservableObject {
     @Published var cards = [CardI]()
     @Published var expansionName: ExpansionSet
-    
+
     struct ExpansionSet {
         let expName: String
     }
-    
+
     init(expansion: ExpansionSet) {
         self.expansionName = expansion
         loadCardData(expansion.expName)
     }
-        
+
     func loadCardData(_ expName: String) {
-        
-        if(expName != ""){
+
+        if expName != "" {
             guard
                 let url = Bundle.main.url(
                     forResource: expName, withExtension: "json")
@@ -173,14 +176,13 @@ class ReadCardData: ObservableObject {
                 print("File not found")
                 return
             }
-            
+
             let data = try? Data(contentsOf: url)
             let cards = try? JSONDecoder().decode([CardI].self, from: data!)
             self.cards = cards!
-        }else{
+        } else {
             self.cards = []
         }
-        
+
     }
 }
-

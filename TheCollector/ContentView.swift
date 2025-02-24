@@ -11,7 +11,7 @@ import SwiftUI
 struct CardsView: View {
     @State var detail: Card? = nil
     @State private var isShowingDownloadSheet = false
-    @Query() var cards: [Card]
+    @Query(sort: \Card.number) var cards: [Card]
 
     var cardGrid: some View {
         NavigationStack {
@@ -26,7 +26,7 @@ struct CardsView: View {
                                 .onTapGesture {
                                     detail = card
                                 }
-                            Text(card.name)
+                            Text(card.name + " (" + card.rarity + ")")
                         }
                     }
                 }.padding(10)
@@ -98,7 +98,7 @@ struct AddDownloadSheet: View {
     @State private var number: String = "H34"
     @State private var color: String = "red"
     @State private var image: String = "hBP02-001_OSR"
-    
+
     var body: some View {
         NavigationStack {
             VStack {
@@ -112,29 +112,9 @@ struct AddDownloadSheet: View {
                     }
                     Button("Hololive - Quintet Spectrum") {
                         let res = expSheet(expName: "holo-quintetSpectrum")
-                        
-//                        let cardSet = Card(
-//                            cardType: "card",
-//                            name: "name",
-//                            number: "number",
-//                            color: "olo",
-//                            image: "imsgr",
-//                            setName: "Holo Qintet"
-//                            rarity: "C",
-//                            gameCode: "holo",
-//                            expansionCode: "hBP02"
-//                        )
-//                        print(res.cardType)
-//                        print(res.name)
-//                        print(res.number)
-//                        print(res.color)
-//                        print(res.image)
-//                        print(res.rarity)
-//                        print(res.setName)
-//                        print(res.gameCode)
-//                        print(res.expansionCode)
-//                        context.insert(cardSet)
-                        context.insert(res)
+                        for card in res {
+                            context.insert(card)
+                        }
                         dismiss()
                     }
                 }.buttonStyle(.borderedProminent)
@@ -149,23 +129,29 @@ struct AddDownloadSheet: View {
     }
 }
 
-func expSheet(expName: String) -> Card {
+func expSheet(expName: String) -> [Card] {
     @ObservedObject var cardData: ReadCardData
 
     let test = ReadCardData.ExpansionSet(expName: expName)
     cardData = ReadCardData(expansion: test)
 
-    let cardSet = Card(
-        cardType: cardData.cards[9].cardType,
-        name: cardData.cards[9].name,
-        number: cardData.cards[9].number,
-        color: cardData.cards[9].color ?? "type_void",
-        image: cardData.cards[9].image ?? "",
-        setName: cardData.cards[9].setName
-//        rarity: "C",
-//        gameCode: "holo",
-//        expansionCode: "hBP02"
-    )
+    var cardSet: [Card] = []
+
+    for card in cardData.cards {
+        cardSet.append(
+            Card(
+                cardType: card.cardType,
+                name: card.name,
+                number: card.number,
+                color: card.color ?? "type_void",
+                image: card.image ?? "",
+                setName: card.setName,
+                rarity: card.rarity,
+                gameCode: String(expName.prefix(4)),
+                expansionCode: String(card.number.split(separator: "-")[0])
+            )
+        )
+    }
     return cardSet
 
 }

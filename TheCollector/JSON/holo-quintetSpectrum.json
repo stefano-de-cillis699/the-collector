@@ -3,9 +3,10 @@
         "cardType": "Oshi Holomem",
         "image": "hBP02-001_OSR",
         "number": "hBP02-001",
-        "name": "Shirakami Fubuki",
+        "name": "白上フブキ",
         "setName": "Quintet Spectrum",
-        "color": "type_white"
+        "color": "type_white",
+        "rarity": "xx"
     },
     {
         "cardType": "Oshi Holomem",
@@ -13,7 +14,8 @@
         "number": "hBP02-002",
         "name": "パヴォリア レイネ",
         "setName": "Quintet Spectrum",
-        "color": "type_green"
+        "color": "type_green",
+        "rarity": "xx"
     },
     {
         "cardType": "Oshi Holomem",
@@ -21,7 +23,8 @@
         "number": "hBP02-003",
         "name": "宝鐘マリン",
         "setName": "Quintet Spectrum",
-        "color": "type_red"
+        "color": "type_red",
+        "rarity": "xx"
     },
     {
         "cardType": "Oshi Holomem",
@@ -29,7 +32,8 @@
         "number": "hBP02-004",
         "name": "沙花叉クロヱ",
         "setName": "Quintet Spectrum",
-        "color": "type_blue"
+        "color": "type_blue",
+        "rarity": "xx"
     },
     {
         "cardType": "Oshi Holomem",
@@ -37,7 +41,8 @@
         "number": "hBP02-005",
         "name": "紫咲シオン",
         "setName": "Quintet Spectrum",
-        "color": "type_purple"
+        "color": "type_purple",
+        "rarity": "xx"
     },
     {
         "cardType": "Oshi Holomem",
@@ -45,7 +50,8 @@
         "number": "hBP02-006",
         "name": "クレイジー オリー",
         "setName": "Quintet Spectrum",
-        "color": "type_purple"
+        "color": "type_purple",
+        "rarity": "xx"
     },
     {
         "cardType": "Oshi Holomem",
@@ -53,7 +59,8 @@
         "number": "hBP02-007",
         "name": "森カリオペ",
         "setName": "Quintet Spectrum",
-        "color": "type_purple"
+        "color": "type_purple",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -61,7 +68,8 @@
         "number": "hBP02-008",
         "name": "白上フブキ",
         "setName": "Quintet Spectrum",
-        "color": "type_white"
+        "color": "type_white",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -69,7 +77,8 @@
         "number": "hBP02-009",
         "name": "白上フブキ",
         "setName": "Quintet Spectrum",
-        "color": "type_white"
+        "color": "type_white",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -77,7 +86,8 @@
         "number": "hBP02-010",
         "name": "白上フブキ",
         "setName": "Quintet Spectrum",
-        "color": "type_white"
+        "color": "type_white",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -85,7 +95,8 @@
         "number": "hBP02-011",
         "name": "白上フブキ",
         "setName": "Quintet Spectrum",
-        "color": "type_white"
+        "color": "type_white",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -93,7 +104,8 @@
         "number": "hBP02-012",
         "name": "白上フブキ",
         "setName": "Quintet Spectrum",
-        "color": "type_white"
+        "color": "type_white",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -101,7 +113,8 @@
         "number": "hBP02-013",
         "name": "白上フブキ",
         "setName": "Quintet Spectrum",
-        "color": "type_white"
+        "color": "type_white",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -109,7 +122,8 @@
         "number": "hBP02-014",
         "name": "白銀ノエル",
         "setName": "Quintet Spectrum",
-        "color": "type_white"
+        "color": "type_white",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -117,7 +131,8 @@
         "number": "hBP02-015",
         "name": "白銀ノエル",
         "setName": "Quintet Spectrum",
-        "color": "type_white"
+        "color": "type_white",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -125,7 +140,8 @@
         "number": "hBP02-016",
         "name": "白銀ノエル",
         "setName": "Quintet Spectrum",
-        "color": "type_white"
+        "color": "type_white",
+        "rarity": "xx"
     },
     {
         "cardType": "BuzzHolomem",
@@ -133,7 +149,8 @@
         "number": "hBP02-017",
         "name": "白銀ノエル",
         "setName": "Quintet Spectrum",
-        "color": "type_white"
+        "color": "type_white",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -141,7 +158,8 @@
         "number": "hBP02-018",
         "name": "パヴォリア レイネ",
         "setName": "Quintet Spectrum",
-        "color": "type_green"
+        "color": "type_green",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -149,7 +167,8 @@
         "number": "hBP02-019",
         "name": "パヴォリア レイネ",
         "setName": "Quintet Spectrum",
-        "color": "type_green"
+        "color": "type_green",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -157,7 +176,8 @@
         "number": "hBP02-020",
         "name": "パヴォリア レイネ",
         "setName": "Quintet Spectrum",
-        "color": "type_green"
+        "color": "type_green",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -165,7 +185,8 @@
         "number": "hBP02-021",
         "name": "パヴォリア レイネ",
         "setName": "Quintet Spectrum",
-        "color": "type_green"
+        "color": "type_green",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -173,7 +194,8 @@
         "number": "hBP02-022",
         "name": "パヴォリア レイネ",
         "setName": "Quintet Spectrum",
-        "color": "type_green"
+        "color": "type_green",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -181,7 +203,8 @@
         "number": "hBP02-023",
         "name": "パヴォリア レイネ",
         "setName": "Quintet Spectrum",
-        "color": "type_green"
+        "color": "type_green",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -189,7 +212,8 @@
         "number": "hBP02-024",
         "name": "大神ミオ",
         "setName": "Quintet Spectrum",
-        "color": "type_green"
+        "color": "type_green",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -197,7 +221,8 @@
         "number": "hBP02-025",
         "name": "大神ミオ",
         "setName": "Quintet Spectrum",
-        "color": "type_green"
+        "color": "type_green",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -205,7 +230,8 @@
         "number": "hBP02-026",
         "name": "大神ミオ",
         "setName": "Quintet Spectrum",
-        "color": "type_green"
+        "color": "type_green",
+        "rarity": "xx"
     },
     {
         "cardType": "BuzzHolomem",
@@ -213,7 +239,8 @@
         "number": "hBP02-027",
         "name": "大神ミオ",
         "setName": "Quintet Spectrum",
-        "color": "type_green"
+        "color": "type_green",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -221,7 +248,8 @@
         "number": "hBP02-028",
         "name": "宝鐘マリン",
         "setName": "Quintet Spectrum",
-        "color": "type_red"
+        "color": "type_red",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -229,7 +257,8 @@
         "number": "hBP02-029",
         "name": "宝鐘マリン",
         "setName": "Quintet Spectrum",
-        "color": "type_red"
+        "color": "type_red",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -237,7 +266,8 @@
         "number": "hBP02-030",
         "name": "宝鐘マリン",
         "setName": "Quintet Spectrum",
-        "color": "type_red"
+        "color": "type_red",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -245,7 +275,8 @@
         "number": "hBP02-031",
         "name": "宝鐘マリン",
         "setName": "Quintet Spectrum",
-        "color": "type_red"
+        "color": "type_red",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -253,7 +284,8 @@
         "number": "hBP02-032",
         "name": "宝鐘マリン",
         "setName": "Quintet Spectrum",
-        "color": "type_red"
+        "color": "type_red",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -261,7 +293,8 @@
         "number": "hBP02-033",
         "name": "宝鐘マリン",
         "setName": "Quintet Spectrum",
-        "color": "type_red"
+        "color": "type_red",
+        "rarity": "xx"
     },
     {
         "cardType": "BuzzHolomem",
@@ -269,7 +302,8 @@
         "number": "hBP02-034",
         "name": "百鬼あやめ",
         "setName": "Quintet Spectrum",
-        "color": "type_red"
+        "color": "type_red",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -277,7 +311,8 @@
         "number": "hBP02-035",
         "name": "沙花叉クロヱ",
         "setName": "Quintet Spectrum",
-        "color": "type_blue"
+        "color": "type_blue",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -285,7 +320,8 @@
         "number": "hBP02-036",
         "name": "沙花叉クロヱ",
         "setName": "Quintet Spectrum",
-        "color": "type_blue"
+        "color": "type_blue",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -293,7 +329,8 @@
         "number": "hBP02-037",
         "name": "沙花叉クロヱ",
         "setName": "Quintet Spectrum",
-        "color": "type_blue"
+        "color": "type_blue",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -301,7 +338,8 @@
         "number": "hBP02-038",
         "name": "沙花叉クロヱ",
         "setName": "Quintet Spectrum",
-        "color": "type_blue"
+        "color": "type_blue",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -309,7 +347,8 @@
         "number": "hBP02-039",
         "name": "沙花叉クロヱ",
         "setName": "Quintet Spectrum",
-        "color": "type_blue"
+        "color": "type_blue",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -317,7 +356,8 @@
         "number": "hBP02-040",
         "name": "沙花叉クロヱ",
         "setName": "Quintet Spectrum",
-        "color": "type_blue"
+        "color": "type_blue",
+        "rarity": "xx"
     },
     {
         "cardType": "BuzzHolomem",
@@ -325,7 +365,8 @@
         "number": "hBP02-041",
         "name": "猫又おかゆ",
         "setName": "Quintet Spectrum",
-        "color": "type_blue"
+        "color": "type_blue",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -333,7 +374,8 @@
         "number": "hBP02-042",
         "name": "紫咲シオン",
         "setName": "Quintet Spectrum",
-        "color": "type_purple"
+        "color": "type_purple",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -341,7 +383,8 @@
         "number": "hBP02-043",
         "name": "紫咲シオン",
         "setName": "Quintet Spectrum",
-        "color": "type_purple"
+        "color": "type_purple",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -349,7 +392,8 @@
         "number": "hBP02-044",
         "name": "紫咲シオン",
         "setName": "Quintet Spectrum",
-        "color": "type_purple"
+        "color": "type_purple",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -357,7 +401,8 @@
         "number": "hBP02-045",
         "name": "紫咲シオン",
         "setName": "Quintet Spectrum",
-        "color": "type_purple"
+        "color": "type_purple",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -365,7 +410,8 @@
         "number": "hBP02-046",
         "name": "紫咲シオン",
         "setName": "Quintet Spectrum",
-        "color": "type_purple"
+        "color": "type_purple",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -373,7 +419,8 @@
         "number": "hBP02-047",
         "name": "紫咲シオン",
         "setName": "Quintet Spectrum",
-        "color": "type_purple"
+        "color": "type_purple",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -381,7 +428,8 @@
         "number": "hBP02-048",
         "name": "クレイジー オリー",
         "setName": "Quintet Spectrum",
-        "color": "type_purple"
+        "color": "type_purple",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -389,7 +437,8 @@
         "number": "hBP02-049",
         "name": "クレイジー オリー",
         "setName": "Quintet Spectrum",
-        "color": "type_purple"
+        "color": "type_purple",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -397,7 +446,8 @@
         "number": "hBP02-050",
         "name": "クレイジー オリー",
         "setName": "Quintet Spectrum",
-        "color": "type_purple"
+        "color": "type_purple",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -405,7 +455,8 @@
         "number": "hBP02-051",
         "name": "クレイジー オリー",
         "setName": "Quintet Spectrum",
-        "color": "type_purple"
+        "color": "type_purple",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -413,7 +464,8 @@
         "number": "hBP02-052",
         "name": "クレイジー オリー",
         "setName": "Quintet Spectrum",
-        "color": "type_purple"
+        "color": "type_purple",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -421,7 +473,8 @@
         "number": "hBP02-053",
         "name": "クレイジー オリー",
         "setName": "Quintet Spectrum",
-        "color": "type_purple"
+        "color": "type_purple",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -429,7 +482,8 @@
         "number": "hBP02-054",
         "name": "森カリオペ",
         "setName": "Quintet Spectrum",
-        "color": "type_purple"
+        "color": "type_purple",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -437,7 +491,8 @@
         "number": "hBP02-055",
         "name": "森カリオペ",
         "setName": "Quintet Spectrum",
-        "color": "type_purple"
+        "color": "type_purple",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -445,7 +500,8 @@
         "number": "hBP02-056",
         "name": "森カリオペ",
         "setName": "Quintet Spectrum",
-        "color": "type_purple"
+        "color": "type_purple",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -453,7 +509,8 @@
         "number": "hBP02-057",
         "name": "森カリオペ",
         "setName": "Quintet Spectrum",
-        "color": "type_purple"
+        "color": "type_purple",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -461,7 +518,8 @@
         "number": "hBP02-058",
         "name": "森カリオペ",
         "setName": "Quintet Spectrum",
-        "color": "type_purple"
+        "color": "type_purple",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -469,7 +527,8 @@
         "number": "hBP02-059",
         "name": "森カリオペ",
         "setName": "Quintet Spectrum",
-        "color": "type_purple"
+        "color": "type_purple",
+        "rarity": "xx"
     },
     {
         "cardType": "BuzzHolomem",
@@ -477,7 +536,8 @@
         "number": "hBP02-060",
         "name": "癒月ちょこ",
         "setName": "Quintet Spectrum",
-        "color": "type_purple"
+        "color": "type_purple",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -485,7 +545,8 @@
         "number": "hBP02-061",
         "name": "一伊那尓栖",
         "setName": "Quintet Spectrum",
-        "color": "type_purple"
+        "color": "type_purple",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -493,7 +554,8 @@
         "number": "hBP02-062",
         "name": "一伊那尓栖",
         "setName": "Quintet Spectrum",
-        "color": "type_purple"
+        "color": "type_purple",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -501,7 +563,8 @@
         "number": "hBP02-063",
         "name": "一伊那尓栖",
         "setName": "Quintet Spectrum",
-        "color": "type_purple"
+        "color": "type_purple",
+        "rarity": "xx"
     },
     {
         "cardType": "BuzzHolomem",
@@ -509,7 +572,8 @@
         "number": "hBP02-064",
         "name": "一伊那尓栖",
         "setName": "Quintet Spectrum",
-        "color": "type_purple"
+        "color": "type_purple",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -517,7 +581,8 @@
         "number": "hBP02-065",
         "name": "ネリッサ レイヴンクロフト",
         "setName": "Quintet Spectrum",
-        "color": "type_purple"
+        "color": "type_purple",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -525,7 +590,8 @@
         "number": "hBP02-066",
         "name": "ネリッサ レイヴンクロフト",
         "setName": "Quintet Spectrum",
-        "color": "type_purple"
+        "color": "type_purple",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -533,7 +599,8 @@
         "number": "hBP02-067",
         "name": "ネリッサ レイヴンクロフト",
         "setName": "Quintet Spectrum",
-        "color": "type_purple"
+        "color": "type_purple",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -541,7 +608,8 @@
         "number": "hBP02-068",
         "name": "ネリッサ レイヴンクロフト",
         "setName": "Quintet Spectrum",
-        "color": "type_purple"
+        "color": "type_purple",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -549,7 +617,8 @@
         "number": "hBP02-069",
         "name": "魔法少女みこ",
         "setName": "Quintet Spectrum",
-        "color": "type_null"
+        "color": "type_null",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -557,7 +626,8 @@
         "number": "hBP02-070",
         "name": "魔法少女かなた",
         "setName": "Quintet Spectrum",
-        "color": "type_null"
+        "color": "type_null",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -565,7 +635,8 @@
         "number": "hBP02-071",
         "name": "魔法少女ルーナ",
         "setName": "Quintet Spectrum",
-        "color": "type_null"
+        "color": "type_null",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -573,7 +644,8 @@
         "number": "hBP02-072",
         "name": "魔法少女シオン",
         "setName": "Quintet Spectrum",
-        "color": "type_null"
+        "color": "type_null",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -581,7 +653,8 @@
         "number": "hBP02-073",
         "name": "魔法少女マリン",
         "setName": "Quintet Spectrum",
-        "color": "type_null"
+        "color": "type_null",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -589,7 +662,8 @@
         "number": "hBP02-074",
         "name": "魔法少女クロヱ",
         "setName": "Quintet Spectrum",
-        "color": "type_null"
+        "color": "type_null",
+        "rarity": "xx"
     },
     {
         "cardType": "Oshi Holomem",
@@ -597,7 +671,8 @@
         "number": "hBP02-001",
         "name": "白上フブキ",
         "setName": "Quintet Spectrum",
-        "color": "type_white"
+        "color": "type_white",
+        "rarity": "xx"
     },
     {
         "cardType": "Oshi Holomem",
@@ -605,7 +680,8 @@
         "number": "hBP02-001",
         "name": "白上フブキ",
         "color": "type_white",
-        "setName": "Quintet Spectrum"
+        "setName": "Quintet Spectrum",
+        "rarity": "xx"
     },
     {
         "cardType": "Oshi Holomem",
@@ -613,7 +689,8 @@
         "number": "hBP02-002",
         "name": "パヴォリア レイネ",
         "setName": "Quintet Spectrum",
-        "color": "type_green"
+        "color": "type_green",
+        "rarity": "xx"
     },
     {
         "cardType": "Oshi Holomem",
@@ -621,7 +698,8 @@
         "number": "hBP02-003",
         "name": "宝鐘マリン",
         "setName": "Quintet Spectrum",
-        "color": "type_red"
+        "color": "type_red",
+        "rarity": "xx"
     },
     {
         "cardType": "Oshi Holomem",
@@ -629,7 +707,8 @@
         "number": "hBP02-003",
         "name": "宝鐘マリン",
         "color": "type_red",
-        "setName": "Quintet Spectrum"
+        "setName": "Quintet Spectrum",
+        "rarity": "xx"
     },
     {
         "cardType": "Oshi Holomem",
@@ -637,7 +716,8 @@
         "number": "hBP02-004",
         "name": "沙花叉クロヱ",
         "setName": "Quintet Spectrum",
-        "color": "type_blue"
+        "color": "type_blue",
+        "rarity": "xx"
     },
     {
         "cardType": "Oshi Holomem",
@@ -645,7 +725,8 @@
         "number": "hBP02-004",
         "name": "沙花叉クロヱ",
         "color": "type_blue",
-        "setName": "Quintet Spectrum"
+        "setName": "Quintet Spectrum",
+        "rarity": "xx"
     },
     {
         "cardType": "Oshi Holomem",
@@ -653,7 +734,8 @@
         "number": "hBP02-005",
         "name": "紫咲シオン",
         "setName": "Quintet Spectrum",
-        "color": "type_purple"
+        "color": "type_purple",
+        "rarity": "xx"
     },
     {
         "cardType": "Oshi Holomem",
@@ -661,7 +743,8 @@
         "number": "hBP02-006",
         "name": "クレイジー オリー",
         "setName": "Quintet Spectrum",
-        "color": "type_purple"
+        "color": "type_purple",
+        "rarity": "xx"
     },
     {
         "cardType": "Oshi Holomem",
@@ -669,7 +752,8 @@
         "number": "hBP02-007",
         "name": "森カリオペ",
         "setName": "Quintet Spectrum",
-        "color": "type_purple"
+        "color": "type_purple",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -677,7 +761,8 @@
         "number": "hBP02-010",
         "name": "白上フブキ",
         "setName": "Quintet Spectrum",
-        "color": "type_white"
+        "color": "type_white",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -685,7 +770,8 @@
         "number": "hBP02-011",
         "name": "白上フブキ",
         "setName": "Quintet Spectrum",
-        "color": "type_white"
+        "color": "type_white",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -693,7 +779,8 @@
         "number": "hBP02-012",
         "name": "白上フブキ",
         "setName": "Quintet Spectrum",
-        "color": "type_white"
+        "color": "type_white",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -701,7 +788,8 @@
         "number": "hBP02-013",
         "name": "白上フブキ",
         "setName": "Quintet Spectrum",
-        "color": "type_white"
+        "color": "type_white",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -709,7 +797,8 @@
         "number": "hBP02-013",
         "name": "白上フブキ",
         "setName": "Quintet Spectrum",
-        "color": "type_white"
+        "color": "type_white",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -717,7 +806,8 @@
         "number": "hBP02-015",
         "name": "白銀ノエル",
         "setName": "Quintet Spectrum",
-        "color": "type_white"
+        "color": "type_white",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -725,7 +815,8 @@
         "number": "hBP02-016",
         "name": "白銀ノエル",
         "setName": "Quintet Spectrum",
-        "color": "type_white"
+        "color": "type_white",
+        "rarity": "xx"
     },
     {
         "cardType": "BuzzHolomem",
@@ -733,7 +824,8 @@
         "number": "hBP02-017",
         "name": "白銀ノエル",
         "setName": "Quintet Spectrum",
-        "color": "type_white"
+        "color": "type_white",
+        "rarity": "xx"
     },
     {
         "cardType": "BuzzHolomem",
@@ -741,7 +833,8 @@
         "number": "hBP02-017",
         "name": "白銀ノエル",
         "setName": "Quintet Spectrum",
-        "color": "type_white"
+        "color": "type_white",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -749,7 +842,8 @@
         "number": "hBP02-019",
         "name": "パヴォリア レイネ",
         "setName": "Quintet Spectrum",
-        "color": "type_green"
+        "color": "type_green",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -757,7 +851,8 @@
         "number": "hBP02-020",
         "name": "パヴォリア レイネ",
         "setName": "Quintet Spectrum",
-        "color": "type_green"
+        "color": "type_green",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -765,7 +860,8 @@
         "number": "hBP02-021",
         "name": "パヴォリア レイネ",
         "setName": "Quintet Spectrum",
-        "color": "type_green"
+        "color": "type_green",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -773,7 +869,8 @@
         "number": "hBP02-022",
         "name": "パヴォリア レイネ",
         "setName": "Quintet Spectrum",
-        "color": "type_green"
+        "color": "type_green",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -781,7 +878,8 @@
         "number": "hBP02-023",
         "name": "パヴォリア レイネ",
         "setName": "Quintet Spectrum",
-        "color": "type_green"
+        "color": "type_green",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -789,7 +887,8 @@
         "number": "hBP02-023",
         "name": "パヴォリア レイネ",
         "setName": "Quintet Spectrum",
-        "color": "type_green"
+        "color": "type_green",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -797,7 +896,8 @@
         "number": "hBP02-025",
         "name": "大神ミオ",
         "setName": "Quintet Spectrum",
-        "color": "type_green"
+        "color": "type_green",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -805,7 +905,8 @@
         "number": "hBP02-026",
         "name": "大神ミオ",
         "setName": "Quintet Spectrum",
-        "color": "type_green"
+        "color": "type_green",
+        "rarity": "xx"
     },
     {
         "cardType": "BuzzHolomem",
@@ -813,7 +914,8 @@
         "number": "hBP02-027",
         "name": "大神ミオ",
         "setName": "Quintet Spectrum",
-        "color": "type_green"
+        "color": "type_green",
+        "rarity": "xx"
     },
     {
         "cardType": "BuzzHolomem",
@@ -821,7 +923,8 @@
         "number": "hBP02-027",
         "name": "大神ミオ",
         "setName": "Quintet Spectrum",
-        "color": "type_green"
+        "color": "type_green",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -829,7 +932,8 @@
         "number": "hBP02-030",
         "name": "宝鐘マリン",
         "setName": "Quintet Spectrum",
-        "color": "type_red"
+        "color": "type_red",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -837,7 +941,8 @@
         "number": "hBP02-031",
         "name": "宝鐘マリン",
         "setName": "Quintet Spectrum",
-        "color": "type_red"
+        "color": "type_red",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -845,7 +950,8 @@
         "number": "hBP02-032",
         "name": "宝鐘マリン",
         "setName": "Quintet Spectrum",
-        "color": "type_red"
+        "color": "type_red",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -853,7 +959,8 @@
         "number": "hBP02-033",
         "name": "宝鐘マリン",
         "setName": "Quintet Spectrum",
-        "color": "type_red"
+        "color": "type_red",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -861,7 +968,8 @@
         "number": "hBP02-033",
         "name": "宝鐘マリン",
         "setName": "Quintet Spectrum",
-        "color": "type_red"
+        "color": "type_red",
+        "rarity": "xx"
     },
     {
         "cardType": "BuzzHolomem",
@@ -869,7 +977,8 @@
         "number": "hBP02-034",
         "name": "百鬼あやめ",
         "setName": "Quintet Spectrum",
-        "color": "type_red"
+        "color": "type_red",
+        "rarity": "xx"
     },
     {
         "cardType": "BuzzHolomem",
@@ -877,7 +986,8 @@
         "number": "hBP02-034",
         "name": "百鬼あやめ",
         "setName": "Quintet Spectrum",
-        "color": "type_red"
+        "color": "type_red",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -885,7 +995,8 @@
         "number": "hBP02-036",
         "name": "沙花叉クロヱ",
         "setName": "Quintet Spectrum",
-        "color": "type_blue"
+        "color": "type_blue",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -893,7 +1004,8 @@
         "number": "hBP02-037",
         "name": "沙花叉クロヱ",
         "setName": "Quintet Spectrum",
-        "color": "type_blue"
+        "color": "type_blue",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -901,7 +1013,8 @@
         "number": "hBP02-038",
         "name": "沙花叉クロヱ",
         "setName": "Quintet Spectrum",
-        "color": "type_blue"
+        "color": "type_blue",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -909,7 +1022,8 @@
         "number": "hBP02-039",
         "name": "沙花叉クロヱ",
         "setName": "Quintet Spectrum",
-        "color": "type_blue"
+        "color": "type_blue",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -917,7 +1031,8 @@
         "number": "hBP02-040",
         "name": "沙花叉クロヱ",
         "setName": "Quintet Spectrum",
-        "color": "type_blue"
+        "color": "type_blue",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -925,7 +1040,8 @@
         "number": "hBP02-040",
         "name": "沙花叉クロヱ",
         "setName": "Quintet Spectrum",
-        "color": "type_blue"
+        "color": "type_blue",
+        "rarity": "xx"
     },
     {
         "cardType": "BuzzHolomem",
@@ -933,7 +1049,8 @@
         "number": "hBP02-041",
         "name": "猫又おかゆ",
         "setName": "Quintet Spectrum",
-        "color": "type_blue"
+        "color": "type_blue",
+        "rarity": "xx"
     },
     {
         "cardType": "BuzzHolomem",
@@ -941,7 +1058,8 @@
         "number": "hBP02-041",
         "name": "猫又おかゆ",
         "setName": "Quintet Spectrum",
-        "color": "type_blue"
+        "color": "type_blue",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -949,7 +1067,8 @@
         "number": "hBP02-044",
         "name": "紫咲シオン",
         "setName": "Quintet Spectrum",
-        "color": "type_purple"
+        "color": "type_purple",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -957,7 +1076,8 @@
         "number": "hBP02-045",
         "name": "紫咲シオン",
         "setName": "Quintet Spectrum",
-        "color": "type_purple"
+        "color": "type_purple",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -965,7 +1085,8 @@
         "number": "hBP02-046",
         "name": "紫咲シオン",
         "setName": "Quintet Spectrum",
-        "color": "type_purple"
+        "color": "type_purple",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -973,7 +1094,8 @@
         "number": "hBP02-047",
         "name": "紫咲シオン",
         "setName": "Quintet Spectrum",
-        "color": "type_purple"
+        "color": "type_purple",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -981,7 +1103,8 @@
         "number": "hBP02-047",
         "name": "紫咲シオン",
         "setName": "Quintet Spectrum",
-        "color": "type_purple"
+        "color": "type_purple",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -989,7 +1112,8 @@
         "number": "hBP02-049",
         "name": "クレイジー オリー",
         "setName": "Quintet Spectrum",
-        "color": "type_purple"
+        "color": "type_purple",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -997,7 +1121,8 @@
         "number": "hBP02-050",
         "name": "クレイジー オリー",
         "setName": "Quintet Spectrum",
-        "color": "type_purple"
+        "color": "type_purple",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -1005,7 +1130,8 @@
         "number": "hBP02-051",
         "name": "クレイジー オリー",
         "setName": "Quintet Spectrum",
-        "color": "type_purple"
+        "color": "type_purple",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -1013,7 +1139,8 @@
         "number": "hBP02-052",
         "name": "クレイジー オリー",
         "setName": "Quintet Spectrum",
-        "color": "type_purple"
+        "color": "type_purple",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -1021,7 +1148,8 @@
         "number": "hBP02-053",
         "name": "クレイジー オリー",
         "setName": "Quintet Spectrum",
-        "color": "type_purple"
+        "color": "type_purple",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -1029,7 +1157,8 @@
         "number": "hBP02-053",
         "name": "クレイジー オリー",
         "setName": "Quintet Spectrum",
-        "color": "type_purple"
+        "color": "type_purple",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -1037,7 +1166,8 @@
         "number": "hBP02-055",
         "name": "森カリオペ",
         "setName": "Quintet Spectrum",
-        "color": "type_purple"
+        "color": "type_purple",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -1045,7 +1175,8 @@
         "number": "hBP02-056",
         "name": "森カリオペ",
         "setName": "Quintet Spectrum",
-        "color": "type_purple"
+        "color": "type_purple",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -1053,7 +1184,8 @@
         "number": "hBP02-057",
         "name": "森カリオペ",
         "setName": "Quintet Spectrum",
-        "color": "type_purple"
+        "color": "type_purple",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -1061,7 +1193,8 @@
         "number": "hBP02-058",
         "name": "森カリオペ",
         "setName": "Quintet Spectrum",
-        "color": "type_purple"
+        "color": "type_purple",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -1069,7 +1202,8 @@
         "number": "hBP02-059",
         "name": "森カリオペ",
         "setName": "Quintet Spectrum",
-        "color": "type_purple"
+        "color": "type_purple",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -1077,7 +1211,8 @@
         "number": "hBP02-059",
         "name": "森カリオペ",
         "setName": "Quintet Spectrum",
-        "color": "type_purple"
+        "color": "type_purple",
+        "rarity": "xx"
     },
     {
         "cardType": "BuzzHolomem",
@@ -1085,7 +1220,8 @@
         "number": "hBP02-060",
         "name": "癒月ちょこ",
         "setName": "Quintet Spectrum",
-        "color": "type_purple"
+        "color": "type_purple",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -1093,7 +1229,8 @@
         "number": "hBP02-062",
         "name": "一伊那尓栖",
         "setName": "Quintet Spectrum",
-        "color": "type_purple"
+        "color": "type_purple",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -1101,7 +1238,8 @@
         "number": "hBP02-063",
         "name": "一伊那尓栖",
         "setName": "Quintet Spectrum",
-        "color": "type_purple"
+        "color": "type_purple",
+        "rarity": "xx"
     },
     {
         "cardType": "BuzzHolomem",
@@ -1109,7 +1247,8 @@
         "number": "hBP02-064",
         "name": "一伊那尓栖",
         "setName": "Quintet Spectrum",
-        "color": "type_purple"
+        "color": "type_purple",
+        "rarity": "xx"
     },
     {
         "cardType": "BuzzHolomem",
@@ -1117,7 +1256,8 @@
         "number": "hBP02-064",
         "name": "一伊那尓栖",
         "setName": "Quintet Spectrum",
-        "color": "type_purple"
+        "color": "type_purple",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -1125,7 +1265,8 @@
         "number": "hBP02-066",
         "name": "ネリッサ レイヴンクロフト",
         "setName": "Quintet Spectrum",
-        "color": "type_purple"
+        "color": "type_purple",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -1133,7 +1274,8 @@
         "number": "hBP02-067",
         "name": "ネリッサ レイヴンクロフト",
         "setName": "Quintet Spectrum",
-        "color": "type_purple"
+        "color": "type_purple",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -1141,7 +1283,8 @@
         "number": "hBP02-068",
         "name": "ネリッサ レイヴンクロフト",
         "setName": "Quintet Spectrum",
-        "color": "type_purple"
+        "color": "type_purple",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -1149,7 +1292,8 @@
         "number": "hBP02-069",
         "name": "魔法少女みこ",
         "setName": "Quintet Spectrum",
-        "color": "type_null"
+        "color": "type_null",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -1157,15 +1301,17 @@
         "number": "hBP02-070",
         "name": "魔法少女かなた",
         "setName": "Quintet Spectrum",
-        "color": "type_null"
+        "color": "type_null",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
-        "image": "   -071_SR",
+        "image": "hBP02-071_SR",
         "number": "hBP02-071",
         "name": "魔法少女ルーナ",
         "setName": "Quintet Spectrum",
-        "color": "type_null"
+        "color": "type_null",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -1173,7 +1319,8 @@
         "number": "hBP02-072",
         "name": "魔法少女シオン",
         "setName": "Quintet Spectrum",
-        "color": "type_null"
+        "color": "type_null",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -1181,7 +1328,8 @@
         "number": "hBP02-073",
         "name": "魔法少女マリン",
         "setName": "Quintet Spectrum",
-        "color": "type_null"
+        "color": "type_null",
+        "rarity": "xx"
     },
     {
         "cardType": "Holomem",
@@ -1189,7 +1337,8 @@
         "number": "hBP02-074",
         "name": "魔法少女クロヱ",
         "setName": "Quintet Spectrum",
-        "color": "type_null"
+        "color": "type_null",
+        "rarity": "xx"
     },
     {
         "cardType": "event item LIMITED",
@@ -1197,7 +1346,8 @@
         "number": "hBP02-075",
         "name": "アイドルサインペン",
         "setName": "Quintet Spectrum",
-        "color": "type_void"
+        "color": "type_void",
+        "rarity": "xx"
     },
     {
         "cardType": "event item",
@@ -1205,7 +1355,8 @@
         "number": "hBP02-076",
         "name": "カスタムパソコン",
         "setName": "Quintet Spectrum",
-        "color": "type_void"
+        "color": "type_void",
+        "rarity": "xx"
     },
     {
         "cardType": "event item LIMITED",
@@ -1213,7 +1364,8 @@
         "number": "hBP02-077",
         "name": "レトロパソコン",
         "setName": "Quintet Spectrum",
-        "color": "type_void"
+        "color": "type_void",
+        "rarity": "xx"
     },
     {
         "cardType": "Support event LIMITED",
@@ -1221,7 +1373,8 @@
         "number": "hBP02-078",
         "name": "かなた建設",
         "setName": "Quintet Spectrum",
-        "color": "type_void"
+        "color": "type_void",
+        "rarity": "xx"
     },
     {
         "cardType": "Support event",
@@ -1229,7 +1382,8 @@
         "number": "hBP02-079",
         "name": "爆発の魔法",
         "setName": "Quintet Spectrum",
-        "color": "type_void"
+        "color": "type_void",
+        "rarity": "xx"
     },
     {
         "cardType": "Support event LIMITED",
@@ -1237,7 +1391,8 @@
         "number": "hBP02-080",
         "name": "秘密結社holoX",
         "setName": "Quintet Spectrum",
-        "color": "type_void"
+        "color": "type_void",
+        "rarity": "xx"
     },
     {
         "cardType": "Support event LIMITED",
@@ -1245,7 +1400,8 @@
         "number": "hBP02-081",
         "name": "ホロライブ インドネシア2期生",
         "setName": "Quintet Spectrum",
-        "color": "type_void"
+        "color": "type_void",
+        "rarity": "xx"
     },
     {
         "cardType": "Support event LIMITED",
@@ -1253,7 +1409,8 @@
         "number": "hBP02-082",
         "name": "ホロライブゲーマーズ",
         "setName": "Quintet Spectrum",
-        "color": "type_void"
+        "color": "type_void",
+        "rarity": "xx"
     },
     {
         "cardType": "Support event",
@@ -1261,7 +1418,8 @@
         "number": "hBP02-083",
         "name": "魔法のタンス",
         "setName": "Quintet Spectrum",
-        "color": "type_void"
+        "color": "type_void",
+        "rarity": "xx"
     },
     {
         "cardType": "Support event LIMITED",
@@ -1269,7 +1427,8 @@
         "number": "hBP02-084",
         "name": "みっころね24",
         "setName": "Quintet Spectrum",
-        "color": "type_void"
+        "color": "type_void",
+        "rarity": "xx"
     },
     {
         "cardType": "Support event LIMITED",
@@ -1277,7 +1436,8 @@
         "number": "hBP02-085",
         "name": "HOLOLIVE FANTASY",
         "setName": "Quintet Spectrum",
-        "color": "type_void"
+        "color": "type_void",
+        "rarity": "xx"
     },
     {
         "cardType": "Support tool",
@@ -1285,7 +1445,8 @@
         "number": "hBP02-086",
         "name": "ホロスパークリング",
         "setName": "Quintet Spectrum",
-        "color": "type_void"
+        "color": "type_void",
+        "rarity": "xx"
     },
     {
         "cardType": "Support tool",
@@ -1293,7 +1454,8 @@
         "number": "hBP02-087",
         "name": "紫咲シオンの魔法のステッキ",
         "setName": "Quintet Spectrum",
-        "color": "type_void"
+        "color": "type_void",
+        "rarity": "xx"
     },
     {
         "cardType": "Support tool",
@@ -1301,7 +1463,8 @@
         "number": "hBP02-088",
         "name": "森カリオペの鎌",
         "setName": "Quintet Spectrum",
-        "color": "type_void"
+        "color": "type_void",
+        "rarity": "xx"
     },
     {
         "cardType": "Support mascotte",
@@ -1309,7 +1472,8 @@
         "number": "hBP02-089",
         "name": "おるやんけ",
         "setName": "Quintet Spectrum",
-        "color": "type_void"
+        "color": "type_void",
+        "rarity": "xx"
     },
     {
         "cardType": "Support mascotte",
@@ -1317,7 +1481,8 @@
         "number": "hBP02-090",
         "name": "ネジマキツネ",
         "setName": "Quintet Spectrum",
-        "color": "type_void"
+        "color": "type_void",
+        "rarity": "xx"
     },
     {
         "cardType": "Support mascotte",
@@ -1325,7 +1490,8 @@
         "number": "hBP02-091",
         "name": "フブチュン",
         "setName": "Quintet Spectrum",
-        "color": "type_void"
+        "color": "type_void",
+        "rarity": "xx"
     },
     {
         "cardType": "Support mascotte",
@@ -1333,7 +1499,8 @@
         "number": "hBP02-092",
         "name": "フブラ",
         "setName": "Quintet Spectrum",
-        "color": "type_void"
+        "color": "type_void",
+        "rarity": "xx"
     },
     {
         "cardType": "Support mascotte",
@@ -1341,7 +1508,8 @@
         "number": "hBP02-093",
         "name": "ミテイル",
         "setName": "Quintet Spectrum",
-        "color": "type_void"
+        "color": "type_void",
+        "rarity": "xx"
     },
     {
         "cardType": "Support mascotte",
@@ -1349,7 +1517,8 @@
         "number": "hBP02-094",
         "name": "Tatang",
         "setName": "Quintet Spectrum",
-        "color": "type_void"
+        "color": "type_void",
+        "rarity": "xx"
     },
     {
         "cardType": "Support mascotte",
@@ -1357,7 +1526,8 @@
         "number": "hBP02-095",
         "name": "ドクロくん",
         "setName": "Quintet Spectrum",
-        "color": "type_void"
+        "color": "type_void",
+        "rarity": "xx"
     },
     {
         "cardType": "Support mascotte",
@@ -1365,7 +1535,8 @@
         "number": "hBP02-096",
         "name": "イヌ",
         "setName": "Quintet Spectrum",
-        "color": "type_void"
+        "color": "type_void",
+        "rarity": "xx"
     },
     {
         "cardType": "Support mascotte",
@@ -1373,7 +1544,8 @@
         "number": "hBP02-097",
         "name": "UDIN",
         "setName": "Quintet Spectrum",
-        "color": "type_void"
+        "color": "type_void",
+        "rarity": "xx"
     },
     {
         "cardType": "Support mascotte",
@@ -1381,7 +1553,8 @@
         "number": "hBP02-098",
         "name": "Death-sensei",
         "setName": "Quintet Spectrum",
-        "color": "type_void"
+        "color": "type_void",
+        "rarity": "xx"
     },
     {
         "cardType": "Support fan",
@@ -1389,7 +1562,8 @@
         "number": "hBP02-099",
         "name": "すこん部",
         "setName": "Quintet Spectrum",
-        "color": "type_void"
+        "color": "type_void",
+        "rarity": "xx"
     },
     {
         "cardType": "Support fan",
@@ -1397,7 +1571,8 @@
         "number": "hBP02-100",
         "name": "白銀聖騎士団",
         "setName": "Quintet Spectrum",
-        "color": "type_void"
+        "color": "type_void",
+        "rarity": "xx"
     },
     {
         "cardType": "Support fan",
@@ -1405,7 +1580,8 @@
         "number": "hBP02-101",
         "name": "ミオファ",
         "setName": "Quintet Spectrum",
-        "color": "type_void"
+        "color": "type_void",
+        "rarity": "xx"
     },
     {
         "cardType": "Support fan",
@@ -1413,7 +1589,8 @@
         "number": "hBP02-102",
         "name": "塩っ子",
         "setName": "Quintet Spectrum",
-        "color": "type_void"
+        "color": "type_void",
+        "rarity": "xx"
     },
     {
         "cardType": "cheer",
@@ -1421,7 +1598,8 @@
         "number": "hY01-001",
         "name": "white cheer",
         "setName": "Quintet Spectrum",
-        "color": "type_white"
+        "color": "type_white",
+        "rarity": "xx"
     },
     {
         "cardType": "cheer",
@@ -1429,7 +1607,8 @@
         "number": "hY02-001",
         "name": "green cheer",
         "setName": "Quintet Spectrum",
-        "color": "type_green"
+        "color": "type_green",
+        "rarity": "xx"
     },
     {
         "cardType": "cheer",
@@ -1437,7 +1616,8 @@
         "number": "hY03-001",
         "name": "red cheer",
         "setName": "Quintet Spectrum",
-        "color": "type_red"
+        "color": "type_red",
+        "rarity": "xx"
     },
     {
         "cardType": "cheer",
@@ -1445,7 +1625,8 @@
         "number": "hY04-001",
         "name": "blue cheer",
         "setName": "Quintet Spectrum",
-        "color": "type_blue"
+        "color": "type_blue",
+        "rarity": "xx"
     },
     {
         "cardType": "cheer",
@@ -1453,7 +1634,8 @@
         "number": "hY05-001",
         "name": "purple cheer",
         "setName": "Quintet Spectrum",
-        "color": "type_purple"
+        "color": "type_purple",
+        "rarity": "xx"
     },
     {
         "cardType": "event item LIMITED",
@@ -1461,7 +1643,8 @@
         "number": "hBP02-075",
         "name": "アイドルサインペン",
         "setName": "Quintet Spectrum",
-        "color": "type_void"
+        "color": "type_void",
+        "rarity": "xx"
     },
     {
         "cardType": "event item",
@@ -1469,7 +1652,8 @@
         "number": "hBP02-076",
         "name": "カスタムパソコン",
         "setName": "Quintet Spectrum",
-        "color": "type_void"
+        "color": "type_void",
+        "rarity": "xx"
     },
     {
         "cardType": "event item LIMITED",
@@ -1477,7 +1661,8 @@
         "number": "hBP02-077",
         "name": "レトロパソコン",
         "setName": "Quintet Spectrum",
-        "color": "type_void"
+        "color": "type_void",
+        "rarity": "xx"
     },
     {
         "cardType": "Support event LIMITED",
@@ -1485,7 +1670,8 @@
         "number": "hBP02-078",
         "name": "かなた建設",
         "setName": "Quintet Spectrum",
-        "color": "type_void"
+        "color": "type_void",
+        "rarity": "xx"
     },
     {
         "cardType": "Support event",
@@ -1493,7 +1679,8 @@
         "number": "hBP02-079",
         "name": "爆発の魔法",
         "setName": "Quintet Spectrum",
-        "color": "type_void"
+        "color": "type_void",
+        "rarity": "xx"
     },
     {
         "cardType": "Support event LIMITED",
@@ -1501,7 +1688,8 @@
         "number": "hBP02-080",
         "name": "秘密結社holoX",
         "setName": "Quintet Spectrum",
-        "color": "type_void"
+        "color": "type_void",
+        "rarity": "xx"
     },
     {
         "cardType": "Support event LIMITED",
@@ -1509,7 +1697,8 @@
         "number": "hBP02-081",
         "name": "ホロライブ インドネシア2期生",
         "setName": "Quintet Spectrum",
-        "color": "type_void"
+        "color": "type_void",
+        "rarity": "xx"
     },
     {
         "cardType": "Support event LIMITED",
@@ -1517,7 +1706,8 @@
         "number": "hBP02-082",
         "name": "ホロライブゲーマーズ",
         "setName": "Quintet Spectrum",
-        "color": "type_void"
+        "color": "type_void",
+        "rarity": "xx"
     },
     {
         "cardType": "Support event",
@@ -1525,7 +1715,8 @@
         "number": "hBP02-083",
         "name": "魔法のタンス",
         "setName": "Quintet Spectrum",
-        "color": "type_void"
+        "color": "type_void",
+        "rarity": "xx"
     },
     {
         "cardType": "Support event LIMITED",
@@ -1533,7 +1724,8 @@
         "number": "hBP02-084",
         "name": "みっころね24",
         "setName": "Quintet Spectrum",
-        "color": "type_void"
+        "color": "type_void",
+        "rarity": "xx"
     },
     {
         "cardType": "Support event LIMITED",
@@ -1541,7 +1733,8 @@
         "number": "hBP02-084",
         "name": "みっころね24",
         "setName": "Quintet Spectrum",
-        "color": "type_void"
+        "color": "type_void",
+        "rarity": "xx"
     },
     {
         "cardType": "Support event LIMITED",
@@ -1549,7 +1742,8 @@
         "number": "hBP02-085",
         "name": "HOLOLIVE FANTASY",
         "setName": "Quintet Spectrum",
-        "color": "type_void"
+        "color": "type_void",
+        "rarity": "xx"
     },
     {
         "cardType": "Support tool",
@@ -1557,7 +1751,8 @@
         "number": "hBP02-086",
         "name": "ホロスパークリング",
         "setName": "Quintet Spectrum",
-        "color": "type_void"
+        "color": "type_void",
+        "rarity": "xx"
     },
     {
         "cardType": "Support tool",
@@ -1565,7 +1760,8 @@
         "number": "hBP02-087",
         "name": "紫咲シオンの魔法のステッキ",
         "setName": "Quintet Spectrum",
-        "color": "type_void"
+        "color": "type_void",
+        "rarity": "xx"
     },
     {
         "cardType": "Support tool",
@@ -1573,7 +1769,8 @@
         "number": "hBP02-088",
         "name": "森カリオペの鎌",
         "setName": "Quintet Spectrum",
-        "color": "type_void"
+        "color": "type_void",
+        "rarity": "xx"
     },
     {
         "cardType": "Support mascotte",
@@ -1581,7 +1778,8 @@
         "number": "hBP02-089",
         "name": "おるやんけ",
         "setName": "Quintet Spectrum",
-        "color": "type_void"
+        "color": "type_void",
+        "rarity": "xx"
     },
     {
         "cardType": "Support mascotte",
@@ -1589,7 +1787,8 @@
         "number": "hBP02-090",
         "name": "ネジマキツネ",
         "setName": "Quintet Spectrum",
-        "color": "type_void"
+        "color": "type_void",
+        "rarity": "xx"
     },
     {
         "cardType": "Support mascotte",
@@ -1597,7 +1796,8 @@
         "number": "hBP02-091",
         "name": "フブチュン",
         "setName": "Quintet Spectrum",
-        "color": "type_void"
+        "color": "type_void",
+        "rarity": "xx"
     },
     {
         "cardType": "Support mascotte",
@@ -1605,7 +1805,8 @@
         "number": "hBP02-092",
         "name": "フブラ",
         "setName": "Quintet Spectrum",
-        "color": "type_void"
+        "color": "type_void",
+        "rarity": "xx"
     },
     {
         "cardType": "Support mascotte",
@@ -1613,7 +1814,8 @@
         "number": "hBP02-093",
         "name": "ミテイル",
         "setName": "Quintet Spectrum",
-        "color": "type_void"
+        "color": "type_void",
+        "rarity": "xx"
     },
     {
         "cardType": "Support mascotte",
@@ -1621,7 +1823,8 @@
         "number": "hBP02-094",
         "name": "Tatang",
         "setName": "Quintet Spectrum",
-        "color": "type_void"
+        "color": "type_void",
+        "rarity": "xx"
     },
     {
         "cardType": "Support mascotte",
@@ -1629,7 +1832,8 @@
         "number": "hBP02-095",
         "name": "ドクロくん",
         "setName": "Quintet Spectrum",
-        "color": "type_void"
+        "color": "type_void",
+        "rarity": "xx"
     },
     {
         "cardType": "Support mascotte",
@@ -1637,7 +1841,8 @@
         "number": "hBP02-096",
         "name": "イヌ",
         "setName": "Quintet Spectrum",
-        "color": "type_void"
+        "color": "type_void",
+        "rarity": "xx"
     },
     {
         "cardType": "Support mascotte",
@@ -1645,7 +1850,8 @@
         "number": "hBP02-097",
         "name": "UDIN",
         "setName": "Quintet Spectrum",
-        "color": "type_void"
+        "color": "type_void",
+        "rarity": "xx"
     },
     {
         "cardType": "Support mascotte",
@@ -1653,7 +1859,8 @@
         "number": "hBP02-098",
         "name": "Death-sensei",
         "setName": "Quintet Spectrum",
-        "color": "type_void"
+        "color": "type_void",
+        "rarity": "xx"
     },
     {
         "cardType": "Support fan",
@@ -1661,7 +1868,8 @@
         "number": "hBP02-099",
         "name": "すこん部",
         "setName": "Quintet Spectrum",
-        "color": "type_void"
+        "color": "type_void",
+        "rarity": "xx"
     },
     {
         "cardType": "Support fan",
@@ -1669,7 +1877,8 @@
         "number": "hBP02-100",
         "name": "白銀聖騎士団",
         "setName": "Quintet Spectrum",
-        "color": "type_void"
+        "color": "type_void",
+        "rarity": "xx"
     },
     {
         "cardType": "Support fan",
@@ -1677,7 +1886,8 @@
         "number": "hBP02-101",
         "name": "ミオファ",
         "setName": "Quintet Spectrum",
-        "color": "type_void"
+        "color": "type_void",
+        "rarity": "xx"
     },
     {
         "cardType": "Support fan",
@@ -1685,7 +1895,8 @@
         "number": "hBP02-102",
         "name": "塩っ子",
         "setName": "Quintet Spectrum",
-        "color": "type_void"
+        "color": "type_void",
+        "rarity": "xx"
     },
     {
         "cardType": "cheer",
@@ -1693,7 +1904,8 @@
         "number": "hY01-003",
         "name": "white cheer",
         "setName": "Quintet Spectrum",
-        "color": "type_white"
+        "color": "type_white",
+        "rarity": "xx"
     },
     {
         "cardType": "cheer",
@@ -1701,7 +1913,8 @@
         "number": "hY02-002",
         "name": "green cheer",
         "setName": "Quintet Spectrum",
-        "color": "type_green"
+        "color": "type_green",
+        "rarity": "xx"
     },
     {
         "cardType": "cheer",
@@ -1709,7 +1922,8 @@
         "number": "hY03-002",
         "name": "red cheer",
         "setName": "Quintet Spectrum",
-        "color": "type_red"
+        "color": "type_red",
+        "rarity": "xx"
     },
     {
         "cardType": "cheer",
@@ -1717,7 +1931,8 @@
         "number": "hY04-002",
         "name": "blue cheer",
         "setName": "Quintet Spectrum",
-        "color": "type_blue"
+        "color": "type_blue",
+        "rarity": "xx"
     },
     {
         "cardType": "cheer",
@@ -1725,6 +1940,7 @@
         "number": "hY05-002",
         "name": "purple cheer",
         "setName": "Quintet Spectrum",
-        "color": "type_purple"
+        "color": "type_purple",
+        "rarity": "xx"
     }
 ]

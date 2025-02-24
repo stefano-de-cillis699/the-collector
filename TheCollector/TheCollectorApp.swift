@@ -15,4 +15,9 @@ struct TheCollectorApp: App {
             ContentView()
         }.modelContainer(for: [Game.self, Card.self, Expansion.self])
     }
+    init() {
+        print(URL.applicationSupportDirectory.path(percentEncoded: false))
+    }
 }
+
+
