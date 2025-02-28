@@ -93,12 +93,6 @@ struct AddDownloadSheet: View {
     @Environment(\.modelContext) var context
     @Environment(\.dismiss) private var dismiss
 
-    @State private var cardType: String = "Oshi"
-    @State private var name: String = "name"
-    @State private var number: String = "H34"
-    @State private var color: String = "red"
-    @State private var image: String = "hBP02-001_OSR"
-
     var body: some View {
         NavigationStack {
             VStack {
@@ -108,10 +102,13 @@ struct AddDownloadSheet: View {
                     }
                     Divider()
                     Button("Hololive - Blooming Radiance") {
-                        // load bloomingRadiance.json
-                    }
+                        let res = expSheet(expName: "holo_bloomingRadiance")
+                        for card in res {
+                            context.insert(card)
+                        }
+                        dismiss()                    }
                     Button("Hololive - Quintet Spectrum") {
-                        let res = expSheet(expName: "holo-quintetSpectrum")
+                        let res = expSheet(expName: "holo_quintetSpectrum")
                         for card in res {
                             context.insert(card)
                         }

@@ -1,0 +1,1379 @@
+[
+    {
+        "cardType": "Oshi Holomem",
+        "image": "hBP01-001_OSR",
+        "number": "hBP01-001",
+        "name": "天音かなた",
+        "setName": "Blooming Radiance",
+        "rarity": "OSR",
+        "color": "type_white"
+    },
+    {
+        "cardType": "Oshi Holomem",
+        "image": "hBP01-002_OSR",
+        "number": "hBP01-002",
+        "name": "七詩ムメイ",
+        "setName": "Blooming Radiance",
+        "rarity": "OSR",
+        "color": "type_white"
+    },
+    {
+        "cardType": "Oshi Holomem",
+        "image": "hBP01-003_OSR",
+        "number": "hBP01-003",
+        "name": "アキ ローゼンタール",
+        "setName": "Blooming Radiance",
+        "rarity": "OSR",
+        "color": "type_green"
+    },
+    {
+        "cardType": "Oshi Holomem",
+        "image": "hBP01-004_OSR",
+        "number": "hBP01-004",
+        "name": "兎田ぺこら",
+        "setName": "Blooming Radiance",
+        "rarity": "OSR",
+        "color": "type_green"
+    },
+    {
+        "cardType": "Oshi Holomem",
+        "image": "hBP01-005_OSR",
+        "number": "hBP01-005",
+        "name": "鷹嶺ルイ",
+        "setName": "Blooming Radiance",
+        "rarity": "OSR",
+        "color": "type_red"
+    },
+    {
+        "cardType": "Oshi Holomem",
+        "image": "hBP01-006_OSR",
+        "number": "hBP01-006",
+        "name": "小鳥遊キアラ",
+        "setName": "Blooming Radiance",
+        "rarity": "OSR",
+        "color": "type_red"
+    },
+    {
+        "cardType": "Oshi Holomem",
+        "image": "hBP01-007_OSR",
+        "number": "hBP01-007",
+        "name": "星街すいせい",
+        "setName": "Blooming Radiance",
+        "rarity": "OSR",
+        "color": "type_blue"
+    },
+    {
+        "cardType": "Oshi Holomem",
+        "image": "hBP01-008_OSR",
+        "number": "hBP01-008",
+        "name": "こぼ かなえる",
+        "setName": "Blooming Radiance",
+        "rarity": "OSR",
+        "color": "type_blue"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-009_C",
+        "number": "hBP01-009",
+        "name": "天音かなた",
+        "setName": "Blooming Radiance",
+        "rarity": "C",
+        "color": "type_white"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-010_U",
+        "number": "hBP01-010",
+        "name": "天音かなた",
+        "setName": "Blooming Radiance",
+        "rarity": "U",
+        "color": "type_white"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-011_C",
+        "number": "hBP01-011",
+        "name": "天音かなた",
+        "setName": "Blooming Radiance",
+        "rarity": "C",
+        "color": "type_white"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-012_U",
+        "number": "hBP01-012",
+        "name": "天音かなた",
+        "setName": "Blooming Radiance",
+        "rarity": "U",
+        "color": "type_white"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-013_R",
+        "number": "hBP01-013",
+        "name": "天音かなた",
+        "setName": "Blooming Radiance",
+        "rarity": "R",
+        "color": "type_white"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-014_RR",
+        "number": "hBP01-014",
+        "name": "天音かなた",
+        "setName": "Blooming Radiance",
+        "rarity": "RR",
+        "color": "type_white"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-015_C",
+        "number": "hBP01-015",
+        "name": "七詩ムメイ",
+        "setName": "Blooming Radiance",
+        "rarity": "C",
+        "color": "type_white"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-016_U",
+        "number": "hBP01-016",
+        "name": "七詩ムメイ",
+        "setName": "Blooming Radiance",
+        "rarity": "U",
+        "color": "type_white"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-017_C",
+        "number": "hBP01-017",
+        "name": "七詩ムメイ",
+        "setName": "Blooming Radiance",
+        "rarity": "C",
+        "color": "type_white"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-018_C",
+        "number": "hBP01-018",
+        "name": "七詩ムメイ",
+        "setName": "Blooming Radiance",
+        "rarity": "C",
+        "color": "type_white"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-019_U",
+        "number": "hBP01-019",
+        "name": "七詩ムメイ",
+        "setName": "Blooming Radiance",
+        "rarity": "U",
+        "color": "type_white"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-020_R",
+        "number": "hBP01-020",
+        "name": "七詩ムメイ",
+        "setName": "Blooming Radiance",
+        "rarity": "R",
+        "color": "type_white"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-021_C",
+        "number": "hBP01-021",
+        "name": "ときのそら",
+        "setName": "Blooming Radiance",
+        "rarity": "C",
+        "color": "type_white"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-022_U",
+        "number": "hBP01-022",
+        "name": "ときのそら",
+        "setName": "Blooming Radiance",
+        "rarity": "U",
+        "color": "type_white"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-023_RR",
+        "number": "hBP01-023",
+        "name": "ときのそら",
+        "setName": "Blooming Radiance",
+        "rarity": "RR",
+        "color": "type_white"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-024_C",
+        "number": "hBP01-024",
+        "name": "ベスティア ゼータ",
+        "setName": "Blooming Radiance",
+        "rarity": "C",
+        "color": "type_white"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-025_C",
+        "number": "hBP01-025",
+        "name": "ベスティア ゼータ",
+        "setName": "Blooming Radiance",
+        "rarity": "C",
+        "color": "type_white"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-026_U",
+        "number": "hBP01-026",
+        "name": "ベスティア ゼータ",
+        "setName": "Blooming Radiance",
+        "rarity": "U",
+        "color": "type_white"
+    },
+    {
+        "cardType": "Buzz Holomem",
+        "image": "hBP01-027_RR",
+        "number": "hBP01-027",
+        "name": "ベスティア ゼータ",
+        "setName": "Blooming Radiance",
+        "rarity": "RR",
+        "color": "type_white"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-028_C",
+        "number": "hBP01-028",
+        "name": "IRyS",
+        "setName": "Blooming Radiance",
+        "rarity": "C",
+        "color": "type_white"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-029_C",
+        "number": "hBP01-029",
+        "name": "IRyS",
+        "setName": "Blooming Radiance",
+        "rarity": "C",
+        "color": "type_white"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-030_U",
+        "number": "hBP01-030",
+        "name": "IRyS",
+        "setName": "Blooming Radiance",
+        "rarity": "U",
+        "color": "type_white"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-031_R",
+        "number": "hBP01-031",
+        "name": "IRyS",
+        "setName": "Blooming Radiance",
+        "rarity": "R",
+        "color": "type_white"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-032_C",
+        "number": "hBP01-032",
+        "name": "アキ ローゼンタール",
+        "setName": "Blooming Radiance",
+        "rarity": "C",
+        "color": "type_green"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-033_U",
+        "number": "hBP01-033",
+        "name": "アキ ローゼンタール",
+        "setName": "Blooming Radiance",
+        "rarity": "U",
+        "color": "type_green"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-034_C",
+        "number": "hBP01-034",
+        "name": "アキ ローゼンタール",
+        "setName": "Blooming Radiance",
+        "rarity": "C",
+        "color": "type_green"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-035_C",
+        "number": "hBP01-035",
+        "name": "アキ ローゼンタール",
+        "setName": "Blooming Radiance",
+        "rarity": "C",
+        "color": "type_green"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-036_U",
+        "number": "hBP01-036",
+        "name": "アキ ローゼンタール",
+        "setName": "Blooming Radiance",
+        "rarity": "U",
+        "color": "type_green"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-037_R",
+        "number": "hBP01-037",
+        "name": "アキ ローゼンタール",
+        "setName": "Blooming Radiance",
+        "rarity": "R",
+        "color": "type_green"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-038_C",
+        "number": "hBP01-038",
+        "name": "兎田ぺこら",
+        "setName": "Blooming Radiance",
+        "rarity": "C",
+        "color": "type_green"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-039_U",
+        "number": "hBP01-039",
+        "name": "兎田ぺこら",
+        "setName": "Blooming Radiance",
+        "rarity": "U",
+        "color": "type_green"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-040_C",
+        "number": "hBP01-040",
+        "name": "兎田ぺこら",
+        "setName": "Blooming Radiance",
+        "rarity": "C",
+        "color": "type_green"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-041_U",
+        "number": "hBP01-041",
+        "name": "兎田ぺこら",
+        "setName": "Blooming Radiance",
+        "rarity": "U",
+        "color": "type_green"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-042_R",
+        "number": "hBP01-042",
+        "name": "兎田ぺこら",
+        "setName": "Blooming Radiance",
+        "rarity": "R",
+        "color": "type_green"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-043_RR",
+        "number": "hBP01-043",
+        "name": "兎田ぺこら",
+        "setName": "Blooming Radiance",
+        "rarity": "RR",
+        "color": "type_green"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-044_C",
+        "number": "hBP01-044",
+        "name": "AZKi",
+        "setName": "Blooming Radiance",
+        "rarity": "C",
+        "color": "type_green"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-045_U",
+        "number": "hBP01-045",
+        "name": "AZKi",
+        "setName": "Blooming Radiance",
+        "rarity": "U",
+        "color": "type_green"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-046_C",
+        "number": "hBP01-046",
+        "name": "AZKi",
+        "setName": "Blooming Radiance",
+        "rarity": "C",
+        "color": "type_green"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-047_RR",
+        "number": "hBP01-047",
+        "name": "AZKi",
+        "setName": "Blooming Radiance",
+        "rarity": "RR",
+        "color": "type_green"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-048_C",
+        "number": "hBP01-048",
+        "name": "風真いろは",
+        "setName": "Blooming Radiance",
+        "rarity": "C",
+        "color": "type_green"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-049_C",
+        "number": "hBP01-049",
+        "name": "風真いろは",
+        "setName": "Blooming Radiance",
+        "rarity": "C",
+        "color": "type_green"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-050_U",
+        "number": "hBP01-050",
+        "name": "風真いろは",
+        "setName": "Blooming Radiance",
+        "rarity": "U",
+        "color": "type_green"
+    },
+    {
+        "cardType": "Buzz Holomem",
+        "image": "hBP01-051_RR",
+        "number": "hBP01-051",
+        "name": "風真いろは",
+        "setName": "Blooming Radiance",
+        "rarity": "RR",
+        "color": "type_green"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-052_C",
+        "number": "hBP01-052",
+        "name": "アイラニ イオフィフティーン",
+        "setName": "Blooming Radiance",
+        "rarity": "C",
+        "color": "type_green"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-053_C",
+        "number": "hBP01-053",
+        "name": "アイラニ イオフィフティーン",
+        "setName": "Blooming Radiance",
+        "rarity": "C",
+        "color": "type_green"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-054_U",
+        "number": "hBP01-054",
+        "name": "アイラニ イオフィフティーン",
+        "setName": "Blooming Radiance",
+        "rarity": "U",
+        "color": "type_green"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-055_R",
+        "number": "hBP01-055",
+        "name": "アイラニ イオフィフティーン",
+        "setName": "Blooming Radiance",
+        "rarity": "R",
+        "color": "type_green"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-056_C",
+        "number": "hBP01-056",
+        "name": "鷹嶺ルイ",
+        "setName": "Blooming Radiance",
+        "rarity": "C",
+        "color": "type_red"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-057_U",
+        "number": "hBP01-057",
+        "name": "鷹嶺ルイ",
+        "setName": "Blooming Radiance",
+        "rarity": "U",
+        "color": "type_red"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-058_C",
+        "number": "hBP01-058",
+        "name": "鷹嶺ルイ",
+        "setName": "Blooming Radiance",
+        "rarity": "C",
+        "color": "type_red"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-059_C",
+        "number": "hBP01-059",
+        "name": "鷹嶺ルイ",
+        "setName": "Blooming Radiance",
+        "rarity": "C",
+        "color": "type_red"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-060_U",
+        "number": "hBP01-060",
+        "name": "鷹嶺ルイ",
+        "setName": "Blooming Radiance",
+        "rarity": "U",
+        "color": "type_red"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-061_R",
+        "number": "hBP01-061",
+        "name": "鷹嶺ルイ",
+        "setName": "Blooming Radiance",
+        "rarity": "R",
+        "color": "type_red"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-062_C",
+        "number": "hBP01-062",
+        "name": "小鳥遊キアラ",
+        "setName": "Blooming Radiance",
+        "rarity": "C",
+        "color": "type_red"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-063_U",
+        "number": "hBP01-063",
+        "name": "小鳥遊キアラ",
+        "setName": "Blooming Radiance",
+        "rarity": "U",
+        "color": "type_red"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-064_C",
+        "number": "hBP01-064",
+        "name": "小鳥遊キアラ",
+        "setName": "Blooming Radiance",
+        "rarity": "C",
+        "color": "type_red"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-065_U",
+        "number": "hBP01-065",
+        "name": "小鳥遊キアラ",
+        "setName": "Blooming Radiance",
+        "rarity": "U",
+        "color": "type_red"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-066_R",
+        "number": "hBP01-066",
+        "name": "小鳥遊キアラ",
+        "setName": "Blooming Radiance",
+        "rarity": "R",
+        "color": "type_red"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-067_RR",
+        "number": "hBP01-067",
+        "name": "小鳥遊キアラ",
+        "setName": "Blooming Radiance",
+        "rarity": "RR",
+        "color": "type_red"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-068_C",
+        "number": "hBP01-068",
+        "name": "尾丸ポルカ",
+        "setName": "Blooming Radiance",
+        "rarity": "C",
+        "color": "type_red"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-069_C",
+        "number": "hBP01-069",
+        "name": "尾丸ポルカ",
+        "setName": "Blooming Radiance",
+        "rarity": "C",
+        "color": "type_red"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-070_U",
+        "number": "hBP01-070",
+        "name": "尾丸ポルカ",
+        "setName": "Blooming Radiance",
+        "rarity": "U",
+        "color": "type_red"
+    },
+    {
+        "cardType": "Buzz Holomem",
+        "image": "hBP01-071_RR",
+        "number": "hBP01-071",
+        "name": "尾丸ポルカ",
+        "setName": "Blooming Radiance",
+        "rarity": "RR",
+        "color": "type_red"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-072_C",
+        "number": "hBP01-072",
+        "name": "ハコス ベールズ",
+        "setName": "Blooming Radiance",
+        "rarity": "C",
+        "color": "type_red"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-073_C",
+        "number": "hBP01-073",
+        "name": "ハコス ベールズ",
+        "setName": "Blooming Radiance",
+        "rarity": "C",
+        "color": "type_red"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-074_U",
+        "number": "hBP01-074",
+        "name": "ハコス ベールズ",
+        "setName": "Blooming Radiance",
+        "rarity": "U",
+        "color": "type_red"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-075_R",
+        "number": "hBP01-075",
+        "name": "ハコス ベールズ",
+        "setName": "Blooming Radiance",
+        "rarity": "R",
+        "color": "type_red"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-076_C",
+        "number": "hBP01-076",
+        "name": "星街すいせい",
+        "setName": "Blooming Radiance",
+        "rarity": "C",
+        "color": "type_blue"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-077_U",
+        "number": "hBP01-077",
+        "name": "星街すいせい",
+        "setName": "Blooming Radiance",
+        "rarity": "U",
+        "color": "type_blue"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-078_C",
+        "number": "hBP01-078",
+        "name": "星街すいせい",
+        "setName": "Blooming Radiance",
+        "rarity": "C",
+        "color": "type_blue"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-079_U",
+        "number": "hBP01-079",
+        "name": "星街すいせい",
+        "setName": "Blooming Radiance",
+        "rarity": "U",
+        "color": "type_blue"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-080_R",
+        "number": "hBP01-080",
+        "name": "星街すいせい",
+        "setName": "Blooming Radiance",
+        "rarity": "R",
+        "color": "type_blue"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-081_RR",
+        "number": "hBP01-081",
+        "name": "星街すいせい",
+        "setName": "Blooming Radiance",
+        "rarity": "RR",
+        "color": "type_blue"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-082_C",
+        "number": "hBP01-082",
+        "name": "こぼ かなえる",
+        "setName": "Blooming Radiance",
+        "rarity": "C",
+        "color": "type_blue"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-083_U",
+        "number": "hBP01-083",
+        "name": "こぼ かなえる",
+        "setName": "Blooming Radiance",
+        "rarity": "U",
+        "color": "type_blue"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-084_C",
+        "number": "hBP01-084",
+        "name": "こぼ かなえる",
+        "setName": "Blooming Radiance",
+        "rarity": "C",
+        "color": "type_blue"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-085_C",
+        "number": "hBP01-085",
+        "name": "こぼ かなえる",
+        "setName": "Blooming Radiance",
+        "rarity": "C",
+        "color": "type_blue"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-086_U",
+        "number": "hBP01-086",
+        "name": "こぼ かなえる",
+        "setName": "Blooming Radiance",
+        "rarity": "U",
+        "color": "type_blue"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-087_R",
+        "number": "hBP01-087",
+        "name": "こぼ かなえる",
+        "setName": "Blooming Radiance",
+        "rarity": "R",
+        "color": "type_blue"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-088_C",
+        "number": "hBP01-088",
+        "name": "ムーナ ホシノヴァ",
+        "setName": "Blooming Radiance",
+        "rarity": "C",
+        "color": "type_blue"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-089_C",
+        "number": "hBP01-089",
+        "name": "ムーナ ホシノヴァ",
+        "setName": "Blooming Radiance",
+        "rarity": "C",
+        "color": "type_blue"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-090_U",
+        "number": "hBP01-090",
+        "name": "ムーナ ホシノヴァ",
+        "setName": "Blooming Radiance",
+        "rarity": "U",
+        "color": "type_blue"
+    },
+    {
+        "cardType": "Buzz Holomem",
+        "image": "hBP01-091_RR",
+        "number": "hBP01-091",
+        "name": "ムーナ ホシノヴァ",
+        "setName": "Blooming Radiance",
+        "rarity": "RR",
+        "color": "type_blue"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-092_C",
+        "number": "hBP01-092",
+        "name": "オーロ クロニー",
+        "setName": "Blooming Radiance",
+        "rarity": "C",
+        "color": "type_blue"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-093_C",
+        "number": "hBP01-093",
+        "name": "オーロ クロニー",
+        "setName": "Blooming Radiance",
+        "rarity": "C",
+        "color": "type_blue"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-094_U",
+        "number": "hBP01-094",
+        "name": "オーロ クロニー",
+        "setName": "Blooming Radiance",
+        "rarity": "U",
+        "color": "type_blue"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-095_R",
+        "number": "hBP01-095",
+        "name": "オーロ クロニー",
+        "setName": "Blooming Radiance",
+        "rarity": "R",
+        "color": "type_blue"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-096_R",
+        "number": "hBP01-096",
+        "name": "兎田ぺこら",
+        "setName": "Blooming Radiance",
+        "rarity": "R",
+        "color": "type_null"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-097_R",
+        "number": "hBP01-097",
+        "name": "不知火フレア",
+        "setName": "Blooming Radiance",
+        "rarity": "R",
+        "color": "type_null"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-098_R",
+        "number": "hBP01-098",
+        "name": "白銀ノエル",
+        "setName": "Blooming Radiance",
+        "rarity": "R",
+        "color": "type_null"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-099_R",
+        "number": "hBP01-099",
+        "name": "宝鐘マリン",
+        "setName": "Blooming Radiance",
+        "rarity": "R",
+        "color": "type_null"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-100_C",
+        "number": "hBP01-100",
+        "name": "森カリオペ",
+        "setName": "Blooming Radiance",
+        "rarity": "C",
+        "color": "type_null"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-101_C",
+        "number": "hBP01-101",
+        "name": "ワトソン アメリア",
+        "setName": "Blooming Radiance",
+        "rarity": "C",
+        "color": "type_null"
+    },
+    {
+        "cardType": "Support Item LIMITED",
+        "image": "hBP01-102_U",
+        "number": "hBP01-102",
+        "name": "アイドルマイク",
+        "setName": "Blooming Radiance",
+        "rarity": "U",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support Item LIMITED",
+        "image": "hBP01-103_U",
+        "number": "hBP01-103",
+        "name": "ゲーミングパソコン",
+        "setName": "Blooming Radiance",
+        "rarity": "U",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support Item",
+        "image": "hBP01-104_C",
+        "number": "hBP01-104",
+        "name": "ふつうのパソコン",
+        "setName": "Blooming Radiance",
+        "rarity": "C",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support Item LIMITED",
+        "image": "hBP01-105_U",
+        "number": "hBP01-105",
+        "name": "ペンライト",
+        "setName": "Blooming Radiance",
+        "rarity": "U",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support Event",
+        "image": "hBP01-106_U",
+        "number": "hBP01-106",
+        "name": "あとは任せた！",
+        "setName": "Blooming Radiance",
+        "rarity": "U",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support Event",
+        "image": "hBP01-107_C",
+        "number": "hBP01-107",
+        "name": "アンコール",
+        "setName": "Blooming Radiance",
+        "rarity": "C",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support Event LIMITED",
+        "image": "hBP01-108_U",
+        "number": "hBP01-108",
+        "name": "じゃあ敵だね",
+        "setName": "Blooming Radiance",
+        "rarity": "U",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support Event LIMITED",
+        "image": "hBP01-109_U",
+        "number": "hBP01-109",
+        "name": "月と兎の物語",
+        "setName": "Blooming Radiance",
+        "rarity": "U",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support Event LIMITED",
+        "image": "hBP01-110_U",
+        "number": "hBP01-110",
+        "name": "鈍器でぶっ叩くわよ！",
+        "setName": "Blooming Radiance",
+        "rarity": "U",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support Event LIMITED",
+        "image": "hBP01-111_U",
+        "number": "hBP01-111",
+        "name": "ホロライブインドネシア3期生",
+        "setName": "Blooming Radiance",
+        "rarity": "U",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support Event",
+        "image": "hBP01-112_U",
+        "number": "hBP01-112",
+        "name": "わくわくいたずらタイム",
+        "setName": "Blooming Radiance",
+        "rarity": "U",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support Event LIMITED",
+        "image": "hBP01-113_U",
+        "number": "hBP01-113",
+        "name": "Promise",
+        "setName": "Blooming Radiance",
+        "rarity": "U",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support ツール",
+        "image": "hBP01-114_C",
+        "number": "hBP01-114",
+        "name": "石の斧",
+        "setName": "Blooming Radiance",
+        "rarity": "C",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support ツール",
+        "image": "hBP01-115_U",
+        "number": "hBP01-115",
+        "name": "星街すいせいのマイク",
+        "setName": "Blooming Radiance",
+        "rarity": "U",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support Mascot",
+        "image": "hBP01-116_C",
+        "number": "hBP01-116",
+        "name": "うぱお",
+        "setName": "Blooming Radiance",
+        "rarity": "C",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support Mascot",
+        "image": "hBP01-117_C",
+        "number": "hBP01-117",
+        "name": "フレンド",
+        "setName": "Blooming Radiance",
+        "rarity": "C",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support Mascot",
+        "image": "hBP01-118_C",
+        "number": "hBP01-118",
+        "name": "あん肝",
+        "setName": "Blooming Radiance",
+        "rarity": "C",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support Mascot",
+        "image": "hBP01-119_C",
+        "number": "hBP01-119",
+        "name": "ジョブズ",
+        "setName": "Blooming Radiance",
+        "rarity": "C",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support Mascot",
+        "image": "hBP01-120_C",
+        "number": "hBP01-120",
+        "name": "がんも",
+        "setName": "Blooming Radiance",
+        "rarity": "C",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support Mascot",
+        "image": "hBP01-121_C",
+        "number": "hBP01-121",
+        "name": "Kotori",
+        "setName": "Blooming Radiance",
+        "rarity": "C",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support ファン",
+        "image": "hBP01-122_C",
+        "number": "hBP01-122",
+        "name": "ロゼ隊",
+        "setName": "Blooming Radiance",
+        "rarity": "C",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support ファン",
+        "image": "hBP01-123_C",
+        "number": "hBP01-123",
+        "name": "野うさぎ同盟",
+        "setName": "Blooming Radiance",
+        "rarity": "C",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support ファン",
+        "image": "hBP01-124_C",
+        "number": "hBP01-124",
+        "name": "開拓者",
+        "setName": "Blooming Radiance",
+        "rarity": "C",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support ファン",
+        "image": "hBP01-125_C",
+        "number": "hBP01-125",
+        "name": "KFP",
+        "setName": "Blooming Radiance",
+        "rarity": "C",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support ファン",
+        "image": "hBP01-126_C",
+        "number": "hBP01-126",
+        "name": "座員",
+        "setName": "Blooming Radiance",
+        "rarity": "C",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support スタッフ LIMITED",
+        "image": "hSD01-016_C",
+        "number": "hSD01-016",
+        "name": "春先のどか",
+        "setName": "Blooming Radiance",
+        "rarity": "C",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support Item LIMITED",
+        "image": "hSD01-019_C",
+        "number": "hSD01-019",
+        "name": "スゴイパソコン",
+        "setName": "Blooming Radiance",
+        "rarity": "C",
+        "color": "type_void"
+    },
+    {
+        "cardType": "Support Event",
+        "image": "hSD01-020_C",
+        "number": "hSD01-020",
+        "name": "ホロリスの輪",
+        "setName": "Blooming Radiance",
+        "rarity": "C",
+        "color": "type_void"
+    },
+    {
+        "cardType": "エール",
+        "image": "hY01-001_C",
+        "number": "hY01-001",
+        "name": "白エール",
+        "setName": "Blooming Radiance",
+        "rarity": "C",
+        "color": "type_white"
+    },
+    {
+        "cardType": "エール",
+        "image": "hY02-001_C",
+        "number": "hY02-001",
+        "name": "緑エール",
+        "setName": "Blooming Radiance",
+        "rarity": "C",
+        "color": "type_green"
+    },
+    {
+        "cardType": "エール",
+        "image": "hY03-001_C",
+        "number": "hY03-001",
+        "name": "赤エール",
+        "setName": "Blooming Radiance",
+        "rarity": "C",
+        "color": "type_red"
+    },
+    {
+        "cardType": "エール",
+        "image": "hY04-001_C",
+        "number": "hY04-001",
+        "name": "青エール",
+        "setName": "Blooming Radiance",
+        "rarity": "C",
+        "color": "type_blue"
+    },
+    {
+        "cardType": "Oshi Holomem",
+        "image": "hBP01-001_OUR",
+        "number": "hBP01-001",
+        "name": "天音かなた",
+        "setName": "Blooming Radiance",
+        "rarity": "OUR",
+        "color": "type_white"
+    },
+    {
+        "cardType": "Oshi Holomem",
+        "image": "hBP01-002_OUR",
+        "number": "hBP01-002",
+        "name": "七詩ムメイ",
+        "setName": "Blooming Radiance",
+        "rarity": "OUR",
+        "color": "type_white"
+    },
+    {
+        "cardType": "Oshi Holomem",
+        "image": "hBP01-003_OUR",
+        "number": "hBP01-003",
+        "name": "アキ ローゼンタール",
+        "setName": "Blooming Radiance",
+        "rarity": "OUR",
+        "color": "type_green"
+    },
+    {
+        "cardType": "Oshi Holomem",
+        "image": "hBP01-004_OUR",
+        "number": "hBP01-004",
+        "name": "兎田ぺこら",
+        "setName": "Blooming Radiance",
+        "rarity": "OUR",
+        "color": "type_green"
+    },
+    {
+        "cardType": "Oshi Holomem",
+        "image": "hBP01-005_OUR",
+        "number": "hBP01-005",
+        "name": "鷹嶺ルイ",
+        "setName": "Blooming Radiance",
+        "rarity": "OUR",
+        "color": "type_red"
+    },
+    {
+        "cardType": "Oshi Holomem",
+        "image": "hBP01-006_OUR",
+        "number": "hBP01-006",
+        "name": "小鳥遊キアラ",
+        "setName": "Blooming Radiance",
+        "rarity": "OUR",
+        "color": "type_red"
+    },
+    {
+        "cardType": "Oshi Holomem",
+        "image": "hBP01-006_SEC",
+        "number": "hBP01-006",
+        "name": "小鳥遊キアラ",
+        "setName": "Blooming Radiance",
+        "rarity": "SEC",
+        "color": "type_red"
+    },
+    {
+        "cardType": "Oshi Holomem",
+        "image": "hBP01-007_OUR",
+        "number": "hBP01-007",
+        "name": "星街すいせい",
+        "setName": "Blooming Radiance",
+        "rarity": "OUR",
+        "color": "type_blue"
+    },
+    {
+        "cardType": "Oshi Holomem",
+        "image": "hBP01-007_SEC",
+        "number": "hBP01-007",
+        "name": "星街すいせい",
+        "setName": "Blooming Radiance",
+        "rarity": "SEC",
+        "color": "type_blue"
+    },
+    {
+        "cardType": "Oshi Holomem",
+        "image": "hBP01-008_OUR",
+        "number": "hBP01-008",
+        "name": "こぼ かなえる",
+        "setName": "Blooming Radiance",
+        "rarity": "OUR",
+        "color": "type_blue"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-014_UR",
+        "number": "hBP01-014",
+        "name": "天音かなた",
+        "setName": "Blooming Radiance",
+        "rarity": "UR",
+        "color": "type_white"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-023_UR",
+        "number": "hBP01-023",
+        "name": "ときのそら",
+        "setName": "Blooming Radiance",
+        "rarity": "UR",
+        "color": "type_white"
+    },
+    {
+        "cardType": "Buzz Holomem",
+        "image": "hBP01-027_UR",
+        "number": "hBP01-027",
+        "name": "ベスティア ゼータ",
+        "setName": "Blooming Radiance",
+        "rarity": "UR",
+        "color": "type_white"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-043_UR",
+        "number": "hBP01-043",
+        "name": "兎田ぺこら",
+        "setName": "Blooming Radiance",
+        "rarity": "UR",
+        "color": "type_green"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-047_UR",
+        "number": "hBP01-047",
+        "name": "AZKi",
+        "setName": "Blooming Radiance",
+        "rarity": "UR",
+        "color": "type_green"
+    },
+    {
+        "cardType": "Buzz Holomem",
+        "image": "hBP01-051_UR",
+        "number": "hBP01-051",
+        "name": "風真いろは",
+        "setName": "Blooming Radiance",
+        "rarity": "UR",
+        "color": "type_green"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-067_UR",
+        "number": "hBP01-067",
+        "name": "小鳥遊キアラ",
+        "setName": "Blooming Radiance",
+        "rarity": "UR",
+        "color": "type_red"
+    },
+    {
+        "cardType": "Buzz Holomem",
+        "image": "hBP01-071_UR",
+        "number": "hBP01-071",
+        "name": "尾丸ポルカ",
+        "setName": "Blooming Radiance",
+        "rarity": "UR",
+        "color": "type_red"
+    },
+    {
+        "cardType": "Holomem",
+        "image": "hBP01-081_UR",
+        "number": "hBP01-081",
+        "name": "星街すいせい",
+        "setName": "Blooming Radiance",
+        "rarity": "UR",
+        "color": "type_blue"
+    },
+    {
+        "cardType": "Buzz Holomem",
+        "image": "hBP01-091_UR",
+        "number": "hBP01-091",
+        "name": "ムーナ ホシノヴァ",
+        "setName": "Blooming Radiance",
+        "rarity": "UR",
+        "color": "type_blue"
+    }
+]
