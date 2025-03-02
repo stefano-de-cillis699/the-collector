@@ -11,8 +11,16 @@ import SwiftUI
 struct CardsView: View {
     @State var detail: Card? = nil
     @State private var isShowingDownloadSheet = false
-    @Query(sort: \Card.number) var cards: [Card]
-
+    
+//    static var descriptor: FetchDescriptor<Card> {
+//        var descriptor = FetchDescriptor<Card>(sortBy: [SortDescriptor(\.number, order: .reverse)])
+//        descriptor.fetchLimit = 10
+//        return descriptor
+//    }
+    
+    @Query() var cards: [Card]
+    @EnvironmentObject var settings: GlobalSettings
+    
     var cardGrid: some View {
         NavigationStack {
             ScrollView {
@@ -85,44 +93,6 @@ struct CardsView: View {
     var body: some View {
         cardGrid
         detailsView
-    }
-}
-
-struct AddDownloadSheet: View {
-
-    @Environment(\.modelContext) var context
-    @Environment(\.dismiss) private var dismiss
-
-    var body: some View {
-        NavigationStack {
-            VStack {
-                Group {
-                    Button("Caster") {
-                        // load caster.json
-                    }
-                    Divider()
-                    Button("Hololive - Blooming Radiance") {
-                        let res = expSheet(expName: "holo_bloomingRadiance")
-                        for card in res {
-                            context.insert(card)
-                        }
-                        dismiss()                    }
-                    Button("Hololive - Quintet Spectrum") {
-                        let res = expSheet(expName: "holo_quintetSpectrum")
-                        for card in res {
-                            context.insert(card)
-                        }
-                        dismiss()
-                    }
-                }.buttonStyle(.borderedProminent)
-            }.navigationTitle("Download Cards")
-                .navigationBarTitleDisplayMode(.inline)
-                .toolbar {
-                    ToolbarItemGroup(placement: .topBarLeading) {
-                        Button("Cancel") { dismiss() }
-                    }
-                }
-        }
     }
 }
 
