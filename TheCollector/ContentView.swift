@@ -18,7 +18,7 @@ struct CardsView: View {
 //        return descriptor
 //    }
     
-    @Query() var cards: [Card]
+    @Query(sort: \Card.number) var cards: [Card]
     @EnvironmentObject var settings: GlobalSettings
     
     var cardGrid: some View {
@@ -35,6 +35,7 @@ struct CardsView: View {
                                     detail = card
                                 }
                             Text(card.name + " (" + card.rarity + ")")
+                            Text(card.setName).font(.caption)
                         }
                     }
                 }.padding(10)
@@ -131,5 +132,6 @@ struct ContentView: View {
 }
 
 #Preview {
+    @Previewable @EnvironmentObject var settings: GlobalSettings
     ContentView()
 }
